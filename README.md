@@ -177,8 +177,9 @@ After readying up, all you have to do is wait for the game to find a lobby.
 # The Lobby
 Here is where you wait for all players to join and prepare for the match. The lobby's aesthetics change every season, and sometimes it has objects you can play around with. You can attack players or spy their stats by pressing the Interaction Button while upclose. The lobby is where you can socialize and emote with people, having some fun until the match starts. If too much time has passed since the lobby's creation, bots will start to appear, filling the remaining player slots. These bots always wear default costumes and don't have a profile you can check. Bots are most commonly found in Solos, Unranked, Steam lobbies if Crossplay is turned OFF, and if you have been shadowbanned.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/lobbys11.png" width="480" /></br>
-</p><br>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/lobbys11.png" width="480" />
+</p>
+
 
 # Sally and Match Start
 Before starting the match, all players have 15 seconds to choose a landing spot, this screen is referred to as the Sally. Normally, people land in the areas they like more or the ones that have more loot or have it more accessible, though those are also often more populated, so it's best if you play a few matches and figure out what landing spots you like the most.<br>
