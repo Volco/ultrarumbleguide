@@ -310,8 +310,12 @@ Plus Chaos is a variation of Plus Ultra used exclusively by villain characters, 
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pumeter.png" width="400"/>
 </p>
 
-# Gameplay: Civilians, Kota, Stage Destruction, Teammate Rescue and Teammate Revival
+# Gameplay: Civilians, Kota, Stage Destruction and Teammate Revival
+Around the map you will Green-Clothed and Blue-Clothed Civilians. By interacting with them you can rescue them, which will make them drop a Team HP Recovery Kit (if the civilian is wearing green) or a Team GP Recovery Kit (if the civilian is wearing blue), they will also drop an Incomplete Revive Card. Players often rescue civilians to get Full Revive Cards and Team Recovery Kits in case a future fight goes rough, in which case a teammate can try to flee the scene and drink one of them to recover their own and their team's health. If a teammate dies, then they pick their badge and go somewhere else (if possible) to revive them.
 
+Aside from small destructible objects that have no special effects, we also have Destructible Buildings (USJ Map only) and Nezu Boxes. Destroying these have a probability of freeing a Civilian from inside, which can either be green or blue.
+
+Reviving a teammate is simple, you require of two things: A Full Revive Card (the pink ones) and your teammate(s) badges. The former can be obtained through Large Item Boxes, through Momo Yaoyorozu's Special Action, or by collecting 3 Incomplete Revive Cards (the gray ones), which you can obtain from rescuing civilians or from Normal and Gold Item Boxes (alternatively you can get both complete and incomplete revive cards from enemies carrying them). As for the teammate badges, they are left at the spot where they have died, which is signaled both on the minimap and on screen, as you will see their name and the icon of their character. Be aware that sometim
 
 # Gameplay: The Poison Mist and the Safe Zone
 # Gameplay: Stage Gimmicks
