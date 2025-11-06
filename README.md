@@ -10,9 +10,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 # <a style="color: rgba(175,100,237,255) !important;">NEW PLAYER GUIDE</a><br>
 For this guide only, every term that isn't just normal speech will be linked to its respective article. Words colored violet can be clicked if you wish to know more about that particular thing, but know that ignoring them doesn't mean you're skipping content, so long as you keep reading below.
 
-## Main Menu
-## Readying For Battle
-### Pre-Lobby: Character Selection
+# Pre-Lobby: Character Selection
 Before going into a match, you gotta know which character you want to play as. Every new player starts with the following characters: Yellow Izuku Midoriya, Blue Ochaco Uraraka, Cementoss, Mt. Lady, Red Tomura Shigaraki and Purple Dabi. Normally, Mt Lady, Tomura Shigaraki and Dabi are the two characters that are the easiest for people to play with. Mt Lady is decent in her small form at new player levels, but her ability to turn giant stomps other new players with ease. Tomura Shigaraki is a very high damage character, while Dabi uses traps and has quite a defensive gameplay that can be turned into offense. If you have good aim, then Izuku Midoriya will probably work the best for you. Cementoss is usually the hardest choice for beginners even though he's a great character.<br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png" />
@@ -169,18 +167,18 @@ Support Characters focus on interrupting the enemy with abilities that easily st
 
 Technical Characters focus on unusual or/and miscelaneous abilities, such as traps (Dabi), copying abilities (Himiko Toga, All For One and Neito Monoma), or other unique abilities like Mirio Togata's counter or Neito Monoma's metal form. Carrying characters with this role gives the whole party a reload boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Purple" or "Tech", after which follows the character's name.
 
-### Pre-Lobby: Matchmaking and Readying Up
+# Pre-Lobby: Matchmaking and Readying Up
 After selecting the desired Battle Royale sub-gamemode (Unranked, Ranked, Solos, CPU Match...) and clicking "Battle!", your game will enter matchmaking, searching for allies to match you with. These teammates will always be real people, and if you've picked Ranked, then the game will *try* to pair you with people close in rank due to the Skill-Based Matchmaking System, though this isn't guaranteed. In Solos and Unranked this system does not exist, so you can get paired with anyone both on the ally and the enemy side.<br>
 <br>
 Once some time has passed (depending on whether you have Crossplay ON/OFF, the time of the day, and the specific gamemode, it can take few seconds or it might take longer.) you will get matched with two people. Normally, you can just click the "Ready!" button on the right to set yourself as "Ready", if all 3 of you are set as "Ready", the game will begin searching for a lobby to play in. However, if your character is the same as one of your teammates, you will have to switch to a different character, as the same character isn't allowed twice (though, they are allowed if the game thinks of them as separate characters, which is the case of All For One and his young counterpart, which are both counted as different characters, such also applies to Izuku Midoriya OFA and Izuku Midoriya. Alternative Battle-Styles are considered the same character as the original counterpart. A good rule of thumb is that if the character's portrait is different, it's a new character, but if only the background color is different, it's not.). A countdown will go down as soon as you're paired with your teammates, so if that countdown reaches zero and two or more people are using the same character, then the player labeled as Member 1 gets to play that character (you can see who is each Member by looking below your username), while Member 2 and Member 3 will switch to the character they've set up as Favorite #1 (which you can do by right-clicking the character icon and setting them as your Number 1 Favorite). If the repeated character is already your Favorite #1, then it will switch to your Favorite #2, and if that's not possible either, then Favorite #3.<br>
 <br>
 After readying up, all you have to do is wait for the game to find a lobby.
 
-### The Lobby
+# The Lobby
 Here is where you wait for all players to join and prepare for the match. The lobby's aesthetics change every season, and sometimes it has objects you can play around with. You can attack players or spy their stats by pressing the Interaction Button while upclose. The lobby is where you can socialize and emote with people, having some fun until the match starts. If too much time has passed since the lobby's creation, bots will start to appear, filling the remaining player slots. These bots always wear default costumes and don't have a profile you can check. Bots are most commonly found in Solos, Unranked, Steam lobbies if Crossplay is turned OFF, and if you have been shadowbanned.<br>
 <br>
 
-### Sally and Match Start
+# Sally and Match Start
 Before starting the match, all players have 15 seconds to choose a landing spot, this screen is referred to as Sally. Normally, people land in the areas they like more or the ones that have more loot or have it more accessible, though those are also often more populated, so it's best if you play a few matches and figure out what landing spots you like the most.<br>
 <br>
 On the map, you will also see a little box icon, which changes locations every match. This icon indicates the presence of a Large Item Box, from which you can loot valuable items, however keep in mind that usually the box's surroundings are very populated, as everyone else wants this loot too, so it's often recommended to at least not spawn directly at the box, but somewhat nearby, since sometimes all players decide to not risk it, which results in nobody being near the box.<br>
@@ -190,10 +188,10 @@ Once the landing spot countdown gets to zero, you will see where every enemy has
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/sally.png" width="720"/></br>
 </p>
 
-### Gameplay: Health Points, Guard Points and DOWNd State
+# Gameplay: Health Points, Guard Points and DOWNd State
 Before jumping onto the general gameplay of the Battle Royale mode let's talk about you and the stuff you first see on-screen, as well as a bit of trivia an extra info about them.<br>
 <br>
-First, you will notice your Player Status interface, with a picture of your character, your role, your username, your platform and two more things: Your Health Bar, and your Quick-Hand equipment. Your health is split in two types: Health Points (HP), which is the green bar; and Guard Points (GP), which is the blue bar. Every character has 250 Maximum GP by default, while their HP can range from 225 to 400 depending on the character you've picked. When receiving an attack, you will first take GP damage, and once they take all of your GP, a "Guardbreak" is produced. GP does not give you a defense boost, it simply takes damage in place of HP, however, some skills deal True DMG, which means they can damage HP directly, ignoring GP.<br>
+First, you will notice your Player Status interface, with a picture of your character, your role, your username, your platform and two more things: Your Health Bar, and your Quick Item Bar. Your health is split in two types: Health Points (HP), which is the green bar; and Guard Points (GP), which is the blue bar. Every character has 250 Maximum GP by default, while their HP can range from 225 to 400 depending on the character you've picked. When receiving an attack, you will first take GP damage, and once they take all of your GP, a "Guardbreak" is produced. GP does not give you a defense boost, it simply takes damage in place of HP, however, some skills deal True DMG, which means they can damage HP directly, ignoring GP.<br>
 <br>
 There are a few differences between taking a hit on GP and on HP in terms of how your character is knocked away, which is important when it comes to combos, but that's for later.
 <p align="center">
@@ -209,22 +207,69 @@ If you lose all of your Down HP, you will be KOd, which means you're dead and wi
 </p>
 <br>
 
-### Gameplay: Character Abilities
+# Gameplay: Character Abilities
 To your right you have your abilities: three aligned in a column plus an extra to the left. The ones in the column are called, from top to bottom, alpha, beta and gamma, while the one more on the left is your Special Action. Remember these terms because you will hear them a lot.<br>
 <br>
-Alpha is the ability at the top, represented with an α letter. In many characters (but not all of them) it's your primary weapon and the one you often can use the most.<br>
-Beta is the ability in the middle of the column, represented by the letter β.<br>
-Gamma is the ability at the bottom of the column, represented by the letter γ.<br>
-The Special Action is a bit different from your other 3 skills. They usually have longer cooldowns and in many cases do pretty unique stuff. Remember how you can have different variations of characters such as Yellow Deku and Red Deku? Well, different variations have different alpha, beta and gamma skills, but the special action is the same across all variations (Again, Deku OFA and Young All For One are an exception because they're considered different characters).<br>
+- Alpha is the ability at the top, represented with an α letter. In many characters (but not all of them) it's your primary weapon and the one you often can use the most.<br>
+- Beta is the ability in the middle of the column, represented by the letter β.<br>
+- Gamma is the ability at the bottom of the column, represented by the letter γ.<br>
+- The Special Action is a bit different from your other 3 skills. They usually have longer cooldowns and in many cases do pretty unique stuff. Remember how you can have different variations of characters such as Yellow Deku and Red Deku? Well, different variations have different alpha, beta and gamma skills, but the special action is the same across all variations (Again, Deku OFA and Young All For One are an exception because they're considered different characters).<br>
 <br>
 These abilities have charges or ammo, representing how many you can use. However, there are three types of ways of expressing "ammo": Some abilities just tell you how many uses of an ability you have, so if you have 5, you can use it 5 times, however some have percentages instead, this usually happens in skills you can hold for a period of time, so you can choose to spend the whole ability or just a small percentage of it. Other skills like some Shield abilities have huge numbers above 100, representing the shield's health.
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/abilities.png" /></br>
 </p>
+<br>
+Alpha, beta and gamma (although not your special action) can be leveled from Level 1 to Level 9 through the use of Level-Up items which we will see in the next section. Leveling up a skill can increase its damage, reduce its cooldown, increase its size or range, the amount of ammo, its duration, durability if it's a shield, and more. Specifically, there's the concept of "Key Levels". Usually, when you level up a skill, you often only get a damage increase, however, there are special levels where you also get an extra upgrade like more range or a bigger size/area, these are generally Level 4 and Level 9 (and sometimes Level 7), as Levels 2, 3, 5, 6 and 8 rarely give any special benefits, which is why sometimes people might level a Lvl 3 skill to Lvl 4 instead of one from Lvl 4 to lvl 5.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/A4.png" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/A7.png" width="90" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/A9.png" />
+</p>
 
+# Gameplay: Inventory and Quick Item Bar
+By pressing the "Item Bag" button (TAB on keyboard), you will open your inventory. Initially, you will have 9 standard slots and 2 ability slots. However you can find Medium and Large item bags around the map or have them dropped by item boxes. Medium bags have 12 standard slots, while Large ones have 15. All items you pick will go to these slots, except for Ability Cards, which by default occupy the two ability slots. If these are occupied, then they will go to your standard slots.  
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/inventory.png" width="480" /></br>
+</p>
+<br>
+Notice how below your health bar, you have three Quick Item slots, the first and the last being used to activate the Ability Cards in your ability slots, while the one in the middle is used to drink recovery items, use level-up items, or use other items.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/quickequip.png" width="480" /></br>
+</p>
+<br>
 
-### Gameplay: Quick Equip Bar, Items, Item Boxes and Ability Cards
+# Gameplay: Items, Cards and Boxes
+Around the map you will see Item Boxes, which open instantly when interacted with and usually drop healing items, ability cards and level-up cards. In rare occasions they can drop Revive Cards. There's also another type of box known as Gold Boxes, which are rarer and take a few seconds to open, but give better items than normal Item Boxes, such as bigger Item Bags, Full Support Drinks, and both Level-Up and Revive Cards with higher chance.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/itembox.png" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/goldenitembox.png" />
+</p>
+
+At the beginning of every match, a Large Item Box will spawn somewhere, which you will be able to see in the Sally, but don't worry if you're not able to open this box, as more land around the map periodically. You can see where they'll land or where they're located through both the minimap or by looking around, as Large Item Boxes are signaled by a huge yellow beam you can see so long as no building is blocking your view. Large Item Boxes take a long time to open, so often you will only be able to open them if you're alone. These boxes drop a lot of items, some of which are very valuable, such as Team Enhancement Kits, Large Item Bags, and Full Revive Cards.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/largeitembox.png" width="480"/>
+</p>
+
+Items are also spread around the world, so boxes aren't the only source of them. You might be confused as to what each item does, so let's review that.
+
+|    |  |
+|----|--|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su001.webp" width="125"> | **HP Recovery Drink (Small)** <br>Recovers 100 HP. Three can be stacked per bag slot. The healing amount increases the more teammates of the Support class are in the team.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su002.webp" width="125"> | **HP Recovery Drink (Large)** <br>Recovers all of your HP, though it takes longer to drink. Only one can be stacked per bag slot.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su003.webp" width="125"> | **Team HP Recovery Kit** <br>Also known as Green Teamheals, they restore the whole team's HP. These are obtained through rescuing Green-Clothed Civilians.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su004.webp" width="125"> | **GP Recovery Drink (Small)** <br>Recovers 63 GP. Three can be stacked per bag slot. The healing amount increases the more teammates of the Support class are in the team.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su005.webp" width="125"> | **GP Recovery Drink (Large)** <br>Recovers all of your GP, though it takes longer to drink. Only one can be stacked per bag slot.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su006.webp" width="125"> | **Team GP Recovery Kit** <br>Also known as Blue Teamheals, they restore the whole team's GP. These are obtained through rescuing Blue-Clothed Civilians.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su007.webp" width="125"> | **Full Support Drink** <br>Also known as Teamheals, they restore the whole team's HP and GP. Only one can be stacked per bag slot. These are incredibly powerful, and can easily change the outcome of a battle and even make the difference as to who wins the match. You have to gamble a bit with these, since if you drink them too late, a teammate might be DOWNd before you finish drinking this item, wasting its value. But if you drink it too early, the HP and GP you will regenerate for the team will be little, wasting value, so you gotta know when to use it an  extract the biggest value possible. These can be rarely dropped from Gold Item Boxes or found around the map, but are commonly dropped from Large Item Boxes.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch002_00.png" width="125"> | **Crushing PU Charge** <br>Reliable and supports aggro playstyles.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch037_00.png" width="125"> | **Card Duplication** <br>Good for offsetting needing to fight with how level dependant she is.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch102_00.png" width="125"> | **Divine Protection** <br>Toga is nimble enough to get in and out of places when she wants so snagging unattended boxes is no challenge for her.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch026_00.png" width="125"> | **Ability Manifest** <br>It's nice if you play with it in mind and carries over into transformations.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch034_00.png" width="125"> | **Reinforced Revive** <br>Works when copying someone who has the tune as well but usually convienient since most revive characters run it.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch007_01.png" width="125"> | **Electrification** <br>Useful when used in combination with beta and for protection or roll catching if they try to roll your beta.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch012_01.png" width="125"> | **Muscle Form** <br>Only works if you activate PU as base Toga. The anti-flinch is very useful but don't sleep on the HP gain either.|
+| <img src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch024_01.png" width="125"> | **Critical Permeation** <br>If you're guardbroken while holding alpha or beta you can continue to attack while critical permeation activates, which is nice.|
 
 ## CHARACTER GUIDES
 Click this image-button to go to the character guide selection!
