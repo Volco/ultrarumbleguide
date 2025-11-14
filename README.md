@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide.jpg" width="100%"/>
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
 
 # <a style="color: rgba(175,100,237,255) !important;">Ultimate Player Guide to My Hero Ultra Rumble</a><br>

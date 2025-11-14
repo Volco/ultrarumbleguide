@@ -1,3 +1,7 @@
+<p align="center">
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
+</p>
+
 # <a style="color: rgba(175,100,237,255) !important;">NEW PLAYER GUIDE</a><br>
 For this guide only, every term that isn't just normal speech will be linked to its respective article. Words colored violet can be clicked if you wish to know more about that particular thing, but know that ignoring them doesn't mean you're skipping content, so long as you keep reading below.
 
