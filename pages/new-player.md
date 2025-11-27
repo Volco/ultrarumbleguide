@@ -157,7 +157,9 @@ Support Characters focus on interrupting the enemy with abilities that easily st
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_technical.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_technical.png" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_technical.png" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_technical.png" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
@@ -311,8 +313,8 @@ Plus Chaos is a variation of Plus Ultra used exclusively by villain characters, 
 # Gameplay: Civilians, Kota, Stage Destruction and Teammate Revival
 Around the map you will Green-Shirt and Blue-Shirt Civilians. By interacting with them you can rescue them, which will make them drop a Team HP Recovery Kit (if the civilian is wearing green) or a Team GP Recovery Kit (if the civilian is wearing blue), they will also drop an Incomplete Revive Card. Players often rescue civilians to get Full Revive Cards and Team Recovery Kits in case a future fight goes rough, in which case a teammate can try to flee the scene and drink one of them to recover their own and their team's health. If a teammate dies, then they pick their badge and go somewhere else (if possible) to revive them.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/greenciv.png" width="300"/>
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/blueciv.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/green_civ.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/blue_civ.png" width="400"/>
 </p>
 
 Aside from small destructible objects that have no special effects, we also have Destructible Buildings (USJ Map only) and Nezu Boxes. Destroying these have a probability of freeing a Civilian from inside, which can either be green or blue.
