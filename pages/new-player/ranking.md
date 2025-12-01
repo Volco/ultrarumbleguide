@@ -48,11 +48,11 @@ To leave Beginner III you need to get to 4,500 pts. Once you do that, you will r
 </p>
 
 After Amateur Rank follows Pro Rank, also known by some as "Gold". You can be demoted to a lower Expert rank if you lose enough points, but you cannot be demoted back to Amateur Rank. The point requirements and Entry Costs are as follows:
-- Pro I is reached at the 33,000 pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
-- Pro II is reached at the 47,000 pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
-- Pro III is reached at the 63,000 pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
-- Pro IV is reached at the 81,000 pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
-- Pro V is reached at the 101,000 pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
+- Pro I is reached at the 33,000 pts mark, and your base Entry Cost will be 300 pts until you reach this rank.
+- Pro II is reached at the 47,000 pts mark, and your base Entry Cost will be 500 pts until you reach this rank.
+- Pro III is reached at the 63,000 pts mark, and your base Entry Cost will be 550 pts until you reach this rank.
+- Pro IV is reached at the 81,000 pts mark, and your base Entry Cost will be 600 pts until you reach this rank.
+- Pro V is reached at the 101,000 pts mark, and your base Entry Cost will be 650 pts until you reach this rank.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro1.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pro2.png" width="200"/>
@@ -62,16 +62,16 @@ After Amateur Rank follows Pro Rank, also known by some as "Gold". You can be de
 </p>
 
 After Pro Rank follows Expert Rank, also known by some as "Obsidian". You can be demoted to a lower Expert rank if you lose enough points, but you cannot be demoted back to Pro Rank. The point requirements and Entry Costs are as follows:
-- Expert I is reached at the ??? pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
-- Expert II is reached at the ??? pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
-- Expert III is reached at the ??? pts mark, and your base Entry Cost will be ??? pts until you reach this rank.
+- Expert I is reached at the ??? pts mark, and your base Entry Cost will be 700 pts until you reach this rank.
+- Expert II is reached at the ??? pts mark, and your base Entry Cost will be 800 pts until you reach this rank.
+- Expert III is reached at the ??? pts mark, and your base Entry Cost will be 900 pts until you reach this rank.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert1.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert2.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/expert3.png" width="200"/>
 </p>
 
-After Expert Rank follows the final rank, Ace Rank. Unlike Expert, Pro, Amateur and Beginner, Ace does not have sub-ranks. Once youv'e reached Ace you've basically hit the summit, as there are no more ranks after and you'll obtain the last batch of ranked rewards. To reach Ace Rank you need to reach the 126,000 pts mark. In this rank, the Entry Cost is at the highest, being that of 1,100 pts. 
+After Expert Rank follows the final rank, Ace Rank. Unlike Expert, Pro, Amateur and Beginner, Ace does not have sub-ranks. Once youv'e reached Ace you've basically hit the summit, as there are no more ranks after and you'll obtain the last batch of ranked rewards. To reach Ace Rank you need to reach the 126,000 pts mark. The journey between Expert III and Ace will have an entry cost of 1,000 pts, which will increase to 1,100 pts the moment you reach Ace Rank.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/ace.png" width="200"/>
 </p>
