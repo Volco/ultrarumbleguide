@@ -27,6 +27,9 @@ Just like in the Battle Royale mode, you cannot choose the same character as you
 Area Control Battle's sally is a bit different from the Battle Royale's. Here your only landing spots are the icons with arrows circling. At first you will only see one, either on the left or right side, but as the match progresses, you will be able to land above or below the center.
 
 Here you can also choose which of the two characters you've picked you want to play as in the moment. You can see whether your teammates are playing as a Capture or as a Pointer by their icon ring color (Blue for Capture, Orange for Pointer).
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/acb-sally.png" width="600"/>
+</p>
 
 # The Actual Gameplay
 Area Control Battle is a mode where you have a time limit of 5 minutes to get more points than the enemy team. If the timer reaches zero, the team with the most points will win. Points are earned passively from claimed Areas (Area A, Area B and Area C), hence, your goal is to have as many claimed areas as possible so you get three sources of passive point gain and prevent the enemy from getting points themselves.
@@ -34,8 +37,14 @@ Area Control Battle is a mode where you have a time limit of 5 minutes to get mo
 However, the victory conditions aren't actually this simple. If a team has all three areas under their control, a 1 minute countdown will begin. If any of the three areas is claimed back by the enemy, this countdown stops, but if it reaches zero, then the match will end in a victory for the team that had the three areas claimed. There's also an Overtime mechanic that applies when the 5-minutes timer reaches zero, where if one team has more points than the other, but the other team has more captured areas, then the game goes into indefinite overtime until either the team with the most claimed areas surpasses the points of the other team, OR the team with the highest points also has the majority of claimed areas. If the 5-minute timer reaches zero and both teams have the same amount of points, then the match will be considered a Tie.
 
 Areas A and C are always located to the sides, of the map, one closer to your spawnpoint, and the other closer to the enemy's spawnpoint.  The structure of the sides of the map as well as Areas A and C change according to the map's "Pattern" (This mode has 3 patterns that rotate every hour), Area B is always located at the center and stays the same across all patterns, it's usually the most chaotic and populated area. To claim an area hyst stand on them until the icon above gets fully blue. You can only claim an area while there are more ally teammates inside of it than there are enemy teammates. Once your team claims an area, your Plus Ultra/Plus Chaos gauge will be filled by +35% and your three skills will level up by 1 the first time you claim Area B. You can also level up by picking Level-Up Cards dropped by enemies you KO. You start with all your skills at Level 4, so keep that in mind.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/acb-gameplay.png" width="600"/>
+</p>
 
 In terms of sustain, you will find a new type of healing item near areas called "Team Support Drink". These items act like tiny Full Support Drinks, recovering tiny amounts of both GP and HP for your whole team. These are often drunk inside claimed areas while you wait for the enemy to come, or drunk from a safe place with a character that can use dangerous area attacks from afar (though this is slightly less advised since having a teammate outside an area means they cannot contribute to the count or might not provide enough aggressivity.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/teamsupportdrink.png" width="200"/>
+</p>
 
 If your HP and GP reach zero, you will be KOd instead of DOWNd, making Special Actions and Tuning Abilities that rely on the DOWNd state useless, such as every revive special action. Once you die, you will have to wait a few seconds before you're sent back to the sally to either switch to your other character or select a different landing spot if available.
 
