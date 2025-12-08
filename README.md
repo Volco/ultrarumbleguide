@@ -13,6 +13,15 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 <p align="center">
    <a href="https://ultrarumble.com/guide/new-player" target="_blank"> <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/></a>
 </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gamemodes.png" width="15%" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-customization.png" width="15%" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-missionslicense.png" width="15%" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gacha.png" width="15%" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-agency.png" width="15%" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-ranked.png" width="15%" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-miscellaneous.png" width="15%" />
+</p>
 
 # Character Guides
 *Click this image-button to go to the character guide selection!*
