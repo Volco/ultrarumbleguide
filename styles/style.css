@@ -1,0 +1,27 @@
+.character-box {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.character-card {
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    max-width: 520px; 
+    height: 200px; 
+    padding: 0px 15px;
+    gap: 15px;
+    text-align: left;
+    background-color: #24262E;
+    border-radius: 12px;
+    box-sizing: border-box; 
+    overflow: hidden;
+}
+
+.character-image {
+    max-height: 135px;
+    align-self: center;
+}
