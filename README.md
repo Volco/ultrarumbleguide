@@ -10,19 +10,104 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 # <span style="color: lightblue !important;">New Player Guide</span>
 *Click this image-button to go to the new player guide!*
 
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>
+
 <p align="center">
    <a href="https://ultrarumble.com/guide/new-player" target="_blank"> <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/></a>
 </p>
-<p align="center">
-    <a href="https://ultrarumble.com/guide/character/10908" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gameplay.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10905" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gamemodes.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10901" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-customization.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10906" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-missionslicense.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10909" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gacha.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10902" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-agency.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10903" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-ranked.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10907" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-miscellaneous.png" width="15%" />
-</p>
+<div class="guides-menu-row">
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10908" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gameplay.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10905" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gamemodes.png"/>
+    </a>
+  </div>  
+  <div class="guide-icon">
+      <a href="https://ultrarumble.com/guide/character/10901" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-customization.png"/>
+    </a>
+  </div> 
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10906" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-missionslicense.png"/>
+    </a>
+  </div> 
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10909" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gacha.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10902" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-agency.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10903" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-ranked.png">
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10907" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-miscellaneous.png">
+    </a>
+  </div>
+</div>
 
 # Character Guides
 *Click this image-button to go to the character guide selection!*
@@ -30,11 +115,24 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 <p align="center">
     <a href="https://ultrarumble.com/guide/characters" target="_blank"><img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="100%" /></a>
 </p>
-<p align="center">
-    <a href="https://ultrarumble.com/guide/character/10910" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-unlock.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/characters" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-guides.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10911" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png" width="15%" />
-</p>
+
+<div class="guides-menu-row">
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10910" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-unlock.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/characters" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-guides.png"/>
+    </a>
+  </div>  
+  <div class="guide-icon">
+      <a href="https://ultrarumble.com/guide/character/10911" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png"/>
+    </a>
+  </div> 
+</div>
 
 # <span style="color: lightred !important;">General Player Guide</span>
 *Click this image-button to go to the general player guide!*
@@ -42,12 +140,29 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 <p align="center">
     <a href="https://ultrarumble.com/guide/characters" target="_blank"><img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="100%" /></a>
 </p>
-<p align="center">
-    <a href="https://ultrarumble.com/guide/character/10912" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-general.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/characters" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10913" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png" width="15%" />
-    <a href="https://ultrarumble.com/guide/character/10914" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-gamesense.png" width="15%" />
-</p>
+
+<div class="guides-menu-row">
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/character/10912" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-general.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/characters" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
+    </a>
+  </div>  
+  <div class="guide-icon">
+      <a href="https://ultrarumble.com/guide/character/10913" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png"/>
+    </a>
+  </div> 
+  <div class="guide-icon">
+      <a href="https://ultrarumble.com/guide/character/10914" target="_blank">
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-gamesense.png"/>
+    </a>
+  </div>
+</div>
 
 ### Guide
 - https://ultrarumble.com/guide
