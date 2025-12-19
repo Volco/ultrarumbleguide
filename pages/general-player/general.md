@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-general.jpg" width="100%"/>
+    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-generalplayer.jpg" width="100%" />
 </p>
 
 # <a style="color: rgba(255,100,100,255) !important;">PLAYER EVOLUTION: Terminology, Mechanics and Course of Action</a><br>
@@ -143,7 +143,7 @@ Leveling your skills is an important part of the gameplay, as such, you want to 
 Escaping isn't just about running in a straight line, so if you want to learn about different ways of escaping or making enemies leave you alone, check the Escapism sub-guide to learn about the valuable skill of knowing how to successfully escape.
 <div class="guides-menu-row" align="center">
     <div class="guide-icon">
-        <a href="https://ultrarumble.com/guide/character/10913" target="_blank">
+        <a href="https://ultrarumble.com/guide/escapism" target="_blank">
             <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png"/>
         </a>
     </div>
@@ -157,7 +157,7 @@ Strategies surrounding the Poison Mist would make this bit too long, which is wh
 <br>
 <div class="guides-menu-row" align="center">
     <div class="guide-icon">
-        <a href="https://ultrarumble.com/guide/character/10916" target="_blank">
+        <a href="https://ultrarumble.com/guide/poisonmist" target="_blank">
             <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
         </a>
     </div>
@@ -172,7 +172,7 @@ When it comes to teamwork, you have limited (but there still are) options when p
 
 <div class="guides-menu-row" align="center">
     <div class="guide-icon">
-        <a href="https://ultrarumble.com/guide/character/10919" target="_blank">
+        <a href="https://ultrarumble.com/guide/teamwork" target="_blank">
             <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-teamwork.png"/>
         </a>
     </div>
@@ -188,6 +188,14 @@ Other projectiles might have splash damage or deal increased damage if you hit a
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/leadshotslow-gif.gif" width="800" />
+</p>
+
+<h1> Mechanics: Walk Canceling </h1>
+
+By using a directional input after a skill that locks you in place, you can "free" yourself faster from this locked state, allowing you to use another one faster than usual, which can be crucial for some characters' combos or simply to be faster in battle.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/400t1-gif.gif" width="600" />
 </p>
 
 <h1> Strategy: Positioning and Decisionmaking </h1>
@@ -271,42 +279,42 @@ You gotta learn when to engage, when to not, where to be, and when to surrender 
     <h2>New Player Guide</h2>
     <div class="guides-menu-row">
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10908" target="_blank">
+            <a href="https://ultrarumble.com/guide/br-gameplay" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gameplay.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10905" target="_blank">
+            <a href="https://ultrarumble.com/guide/gamemodes" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gamemodes.png" />
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10901" target="_blank">
+            <a href="https://ultrarumble.com/guide/customization" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-customization.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10906" target="_blank">
+            <a href="https://ultrarumble.com/guide/licensemissionnotebook" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-missionslicense.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10909" target="_blank">
+            <a href="https://ultrarumble.com/guide/gacha" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gacha.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10902" target="_blank">
+            <a href="https://ultrarumble.com/guide/agency" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-agency.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10903" target="_blank">
+            <a href="https://ultrarumble.com/guide/ranking" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-ranked.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10907" target="_blank">
+            <a href="https://ultrarumble.com/guide/miscellaneous" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-miscellaneous.png"/>
             </a>
         </div>
@@ -314,7 +322,7 @@ You gotta learn when to engage, when to not, where to be, and when to surrender 
     <h2>Character Guides</h2>
     <div class="guides-menu-row">
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10910" target="_blank">
+            <a href="https://ultrarumble.com/guide/unlocks" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-unlock.png"/>
             </a>
         </div>
@@ -324,7 +332,7 @@ You gotta learn when to engage, when to not, where to be, and when to surrender 
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10911" target="_blank">
+            <a href="https://ultrarumble.com/guide/classes" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png"/>
             </a>
         </div>
@@ -332,27 +340,27 @@ You gotta learn when to engage, when to not, where to be, and when to surrender 
     <h2>General Player Guide</h2>
     <div class="guides-menu-row">
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10912" target="_blank">
+            <a href="https://ultrarumble.com/guide/general" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-general.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10919" target="_blank">
+            <a href="https://ultrarumble.com/guide/teamwork" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-teamwork.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10916" target="_blank">
+            <a href="https://ultrarumble.com/guide/poisonmist" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10913" target="_blank">
+            <a href="https://ultrarumble.com/guide/escapism" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10914" target="_blank">
+            <a href="https://ultrarumble.com/guide/wallrun" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-wallrun.png"/>
             </a>
         </div>
@@ -360,12 +368,12 @@ You gotta learn when to engage, when to not, where to be, and when to surrender 
     <h2>T.U.N.I.N.G. Guide</h2>
     <div class="guides-menu-row">
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10917" target="_blank">
+            <a href="https://ultrarumble.com/guide/tuning" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-tuning.png"/>
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/character/10918" target="_blank">
+            <a href="https://ultrarumble.com/guide/normaltuning" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png"/>
             </a>
         </div>
