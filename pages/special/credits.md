@@ -13,7 +13,6 @@
   <div class="role">Developer</div>
   <div class="quote">I like Lady Nagant's feet.</div>
 </div>
-
 <div class="credit-box">
   <div class="name">no_life456780</div>
   <div class="role">Lead Guidemaker (Full Bullet)</div>
