@@ -1,11 +1,13 @@
 <div class="credit-box">
   <div class="name">Yurina</div>
-  <div class="role">Ultimate Guide Project Director, Graphic Artist (Buttons and non-character guides images), Lead Guidemaker (New Player Guide, Unlock and Class Character Guides, General Character Guide (minus Teamwork and Wallrun), Normal Tuning Distribution page), Contributor (Teamwork Guide), Draft-to-Site Adaptations</div>
+  <div class="role">Ultimate Guide Project Director</div>
+  <div class="role">Graphic Artist</div>
+  <div class="role">Draft-to-Site Adaptations</div>
   <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
   <div class="name">Lemon (Lemollion)</div>
-  <div class="role">Graphic Artist (Character Guides' Banners and Fancy Headers)</div>
+  <div class="role">Graphic Artist</div>
   <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
@@ -15,21 +17,43 @@
 </div>
 <div class="credit-box">
   <div class="name">no_life456780</div>
-  <div class="role">Lead Guidemaker (Full Bullet)</div>
+  <div class="role">Lead Guidemaker<br/>(Full Bullet)</div>
   <div class="quote">fix full bullet beta momentum</div>
 </div>
 <div class="credit-box">
   <div class="name">Volco</div>
-  <div class="role">Lead Guidemaker (Catastrophe)</div>
+  <div class="role">Lead Guidemaker<br/>(Catastrophe)</div>
   <div class="quote">BRICK</div>
 </div>
 <div class="credit-box">
   <div class="name">Danoula</div>
-  <div class="role">Lead Guidemaker (Momo Yaoyorozu)</div>
+  <div class="role">Lead Guidemaker<br/>(Momo Yaoyorozu)</div>
   <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
   <div class="name">ItsNotUrPotato</div>
-  <div class="role">Lead Guidemaker (Mr. Compress)</div>
+  <div class="role">Lead Guidemaker<br/>(Mr. Compress)</div>
   <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
 </div>
+<div class="credit-box">
+  <div class="name">Bry</div>
+  <div class="role">Guidemaker<br/>(Mr. Compress)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <div class="name">Duch</div>
+  <div class="role">Guidemaker<br/>(Mr. Compress)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <div class="name">Gogorilla37</div>
+  <div class="role">Lead Guidemaker<br/>(Tamaki Amajiki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <div class="name">Fibiko</div>
+  <div class="role">Lead Guidemaker<br/>(Ibara Shiozaki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+
+
