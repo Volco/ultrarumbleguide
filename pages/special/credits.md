@@ -1,5 +1,5 @@
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://cdn.discordapp.com/attachments/1325721708036100258/1451659971576987718/pfp1.png?ex=6946fb33&is=6945a9b3&hm=66b9013c90fe3f66d9c21251d735745df3ee08d87b5b114d032e4be3780a37f0&" />
   <div class="name">Yurina</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Ultimate Guide Project Director</div>
@@ -37,7 +37,13 @@
 </div>
 
 
-
+<div class="credit-box">
+  <img class="pfp" src="https://cdn.discordapp.com/attachments/1325721708036100258/1451659971576987718/pfp1.png?ex=6946fb33&is=6945a9b3&hm=66b9013c90fe3f66d9c21251d735745df3ee08d87b5b114d032e4be3780a37f0&" />
+  <div class="name">Yurina</div>
+  <div class="discord-tag">maekawayurina</div>
+  <div class="role">Lead Guidemaker<br/>(New and General Guides)</div>
+  <div class="quote">Bratty Femboys are the best</div>
+</div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
   <div class="name">no_life456780</div>
@@ -87,3 +93,62 @@
   <div class="role">Lead Guidemaker<br/>(Tamaki Amajiki)</div>
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">Zyos_Zett</div>
+  <div class="discord-tag">zyos_zett</div>
+  <div class="role">Contributor<br/>(Tamaki Amajiki)</div>
+  <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">Fibiko</div>
+  <div class="discord-tag">fibiko</div>
+  <div class="role">Lead Guidemaker<br/>(Ibara Shiozaki)</div>
+  <div class="role">Lead Guidemaker<br/>(TUNING and Teamwork Guides)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">RjBoss08</div>
+  <div class="discord-tag">rjboss08</div>
+  <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">The Spectator</div>
+  <div class="discord-tag">thecubicspectator</div>
+  <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">Thorn Maiden</div>
+  <div class="discord-tag">swagbag63</div>
+  <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">Huge Pollution (The Doc)</div>
+  <div class="discord-tag">the_doctr_</div>
+  <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">Gabis</div>
+  <div class="discord-tag">ggabbis</div>
+  <div class="role">Lead Guidemaker<br/>(Shoto Todoroki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <div class="name">nugget</div>
+  <div class="discord-tag">nugget0575</div>
+  <div class="role">Contributor<br/>(Shoto Todoroki)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+</div>
+
