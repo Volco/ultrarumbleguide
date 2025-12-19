@@ -149,6 +149,6 @@
   <div class="name">nugget</div>
   <div class="discord-tag">nugget0575</div>
   <div class="role">Contributor<br/>(Shoto Todoroki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">Mhur is the only game where five people hunt a child and fight for who gets to touch him</div>
 </div>
 
