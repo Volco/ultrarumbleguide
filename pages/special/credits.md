@@ -36,7 +36,3 @@
   <div class="role">Lead Guidemaker (Mr. Compress)</div>
   <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
 </div>
-
-
-pneulista 
-</p>
