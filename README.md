@@ -147,7 +147,6 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-teamwork.png"/>
     </a>
   </div>    
-  </div>
   <div class="guide-icon">
     <a href="https://ultrarumble.com/guide/poisonmist" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
