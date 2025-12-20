@@ -501,7 +501,7 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         </div>
     </div>
     <div class="tuning-card">
-        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch013_00.png">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch037_00.png">
         <div>
             <h3>Card Duplication</h3>
             <p>At the start of the match, double the amount of ability cards you receive from the enemies you downed. This tune helps to build your levels faster, and works especially good  for players who love early aggression.</p>
@@ -512,6 +512,13 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         <div>
             <h3>Ability Manifest</h3>
             <p>Once you use an ability card, this tune effectively doubles its duration. This Special Tuning Skill is strong, but unfortunately, requires players to pay close attention to their ability card stock, May be unsuitable for newer players, who feel lost with their ability cards.</p>
+        </div>
+    </div>
+    <div class="tuning-card">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch102_00.png">
+        <div>
+            <h3>Divine Protection</h3>
+            <p>Significantly faster airdrop opening may be huge since a lot of large boxes are essentially uncontested. It helps extracting res cards in late game and significantly boosts your team economy.</p>
         </div>
     </div>
 </section>
