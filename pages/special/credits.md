@@ -22,7 +22,7 @@
   <div class="quote">aaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Draft Adapter</div>
@@ -88,7 +88,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="name">Duch</div>
   <div class="discord-tag">maddriot</div>
   <div class="role">Guidemaker<br/>(Mr. Compress)</div>
-  <div class="quote">Hear me, Knights who seek to shatter my Golden Age! Stand Proud! For you have the privilege of falling before me and becoming yet another page in the tale of my Supremacy” or “Yes, my rivals! Push past your limits, for it will make my victory all the better!</div>
+  <div class="quote">Hear me, Knights who seek to shatter my Golden Age! Stand Proud! For you have the privilege of falling before me and becoming yet another page in the tale of my Supremacy<br/>-T.M. Opera O</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
@@ -106,12 +106,12 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Lead Guidemaker<br/>(Ibara Shiozaki)</div>
   <div class="role">Lead Guidemaker<br/>(TUNING and Teamwork Guides)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">What an Earth?!</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
