@@ -11,7 +11,7 @@
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
   <div class="name">Hydros</div>
   <div class="discord-tag">hydros</div>
-  <div class="role">Developer</div>
+  <div class="role">Lead Developer</div>
   <div class="quote">I like Lady Nagant's feet.</div>
 </div>
 <div class="credit-box">
