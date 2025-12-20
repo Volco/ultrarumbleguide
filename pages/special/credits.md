@@ -33,7 +33,11 @@
   <div class="name">Pneulysta</div>
   <div class="discord-tag">pneulysta</div>
   <div class="role">Draft Adapter</div>
-  <div class="quote">aaaaaaaa</div>
+  <div class="quote">Thank you for taking the time out of your day to learn the names of the talented people who helped produced this website and its guides! I’ve had a lot of fun having the opportunity to try and help others with this website so I hope you keep enjoying and appreciating the hard work everyone else puts in!<br/>
+<br/>
+Now add Jiro and Mina. This is not a request. Further details will be given at this email: https://byking.jp/contact/ <br/>
+<br/>
+If a response is not provided within 24 hours then a “correctional officer” will be sent to your business office’s premises.</div>
 </div>
 
 
@@ -135,7 +139,7 @@
   <div class="name">Huge Pollution (The Doc)</div>
   <div class="discord-tag">the_doctr_</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">You want me to help in some kind of a big guide that INCLUDES Class A? Sounds like a horrible idea, but since I’m a main of one of the only three good first year hero students, someone has to step up! A shame really. Since they added the no good attention seekers who always get themselves into trouble all the time in this game, they’re all going to have to get guides adapted too. Meanwhile there’s only three members of Class B in the entire game… what are they even doing? Byking is no use at all, seriously.</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
