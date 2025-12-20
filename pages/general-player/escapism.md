@@ -140,7 +140,7 @@ Some characters can stay high up in the sky for long periods of time, such as St
 
 ## Leading The Enemy to Another Enemy Team
 
-I need a description for this one
+While escaping from a chase, you may run into different fights or looting teams. Doing it could be a double edged sword. Since you are focused solely on escaping, you have a high chance of being lost in the chaos of mass fight and make it to a safe spot. On the other, hand, there's also a chance of being focused first, especially if the team you are luring your enemies to is fully looted and seeking for engagement. This is a risky tactic to use, so make sure you have enough mobility and heath to escape a new potential danger. Sadly, sometimes it is your only choice. 
 
 ## Mistscape
 
