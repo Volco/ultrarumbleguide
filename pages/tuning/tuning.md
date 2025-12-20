@@ -515,7 +515,7 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         </div>
     </div>
     <div class="tuning-card">
-        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch026_00.png">
+        <img class="tuning-image" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch102_00.png">
         <div>
             <h3>Divine Protection</h3>
             <p>Significantly faster airdrop opening may be huge since a lot of large boxes are essentially uncontested. It helps extracting res cards in late game and significantly boosts your team economy.</p>
