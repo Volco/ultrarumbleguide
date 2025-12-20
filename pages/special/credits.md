@@ -84,11 +84,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://media.discordapp.net/attachments/1448211275086561381/1452064004590534747/IMG_6518.png?ex=6948737c&is=694721fc&hm=9309653a3aacc7283e7bf3a5dfad7cac1e23203dd4db3eb70342c7781ca349fb&=&format=webp&quality=lossless&width=946&height=943" />
   <div class="name">Duch</div>
   <div class="discord-tag">maddriot</div>
   <div class="role">Guidemaker<br/>(Mr. Compress)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">Hear me, Knights who seek to shatter my Golden Age! Stand Proud! For you have the privilege of falling before me and becoming yet another page in the tale of my Supremacy” or “Yes, my rivals! Push past your limits, for it will make my victory all the better!</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
