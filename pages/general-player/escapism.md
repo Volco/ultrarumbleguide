@@ -122,6 +122,10 @@ Enclosing is a type of "escape" that can either be safe or be your doom. Consist
 
 This type of escape is most commonly seen in both Shoto Todorokis, occassionally Cementoss, Momo, and in rare cases Strike Izuku Midoriya or Assault Ochaco Uraraka.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/gifs/enclosing-gif.gif" width="400"/></br>
+</p>
+
 A variation of Enclosing can be performed by characters like Momo Yaoyorozu, in which they can fill a room with deadly abilities or traps which enemies can theoretically walk into, but will get heavily punished by doing so, and might deter wiser players from engaging.
 
 ## Kiting and Baiting
@@ -136,7 +140,7 @@ Some characters can stay high up in the sky for long periods of time, such as St
 
 ## Leading The Enemy to Another Enemy Team
 
-I need a description for this one
+While escaping from a chase, you may run into different fights or looting teams. Doing it could be a double edged sword. Since you are focused solely on escaping, you have a high chance of being lost in the chaos of mass fight and make it to a safe spot. On the other, hand, there's also a chance of being focused first, especially if the team you are luring your enemies to is fully looted and seeking for engagement. This is a risky tactic to use, so make sure you have enough mobility and heath to escape a new potential danger. Sadly, sometimes it is your only choice. 
 
 ## Mistscape
 

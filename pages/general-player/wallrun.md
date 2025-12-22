@@ -87,7 +87,7 @@ In this sub-guide you'll learn about Wall Run and the various techniques it invo
 
 <h2>The Basics</h2>
 
-Wall run is a state of the characater that allows them to run up walls. This state may be accquired with Wall Runner, PU Turbo Special Tuning Skills or Rapid cards. Iida has Wall Run as his passive ability. This is a massive mobility boost for most characters and this guide is here to explain how to take full advantage of this tecnhique.
+Wall Run is a state of a characater that allows them to run up walls. This state may be accquired with Wall Runner, PU Turbo Special Tuning Skills or Rapid Ability Cards. Iida has Wall Run as his passive ability. This is a massive mobility boost for most characters and this guide is here to explain how to take advantage of this tecnhique.
 
 <div class="guides-menu-row" align="center">
     <img class="guide-icon" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch005_00.png"/>
@@ -99,58 +99,55 @@ Wall run is a state of the characater that allows them to run up walls. This sta
 <h3>Step 1: Starting a Wall Run</h3>
 You start wall running by doing one of 2 things:
 
-1. sprint twards a wall and just keep holding sprint. Your character will automatically transition into a wall run and in some specific cases such as with red kiri beta and when iida has someone on his back this is the only way to attach to the wall for run.
-2. Second way to start the Wall Run is to grab on to the wall by pressing jump when facing a wall and holding into the wall. Once you have grabbed on to the wall simply input sprint and your wall run will begin. You can input sprint in any direction from this point to begin the wall run in any direction.
+1. Sprint towards a wall and just keep holding sprint. Your character will automatically transition into a wall run, and in some specific cases such as with Strike Kirishima's beta and when a character with Piggyback Special Action has someone on their back this is their only way to attach to the wall to wallrun.
+2. Second way to start the Wall Run is to grab on to the wall by pressing jump when facing one and holding onto it. Once you have grabbed on to the wall simply input sprint and your wall run will begin. You can input sprint in any direction from this point to begin the wall run in any direction.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr1-gif.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr2-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun1-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun2-gif.gif" width="400" />
 </p>
 
 <h3>Step 2: Wall Jumps</h3>
 
-<p>When jumping off a wall you will get increased momentum when compared to a normal jump. This momentum often carries well into most air melees or into some character specific actions for a huge boost like when ochaco has float on or when combined with momentum amplifier abilities like tech mirio alpha and rapid bakugo alpha.</p>
+<p>When jumping off a wall you will get increased momentum when compared to a normal jump. This momentum often carries well into most air melees or into some character specific actions for a huge boost like when Ochaco has float on or when combined with momentum amplifier abilities like Technical Mirio's alpha and Rapid Bakugo's alpha.</p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr3-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun3-gif.gif" width="400" />
 </p>
 
-<p>The next thing to mention is super jumps. These can be preformed by inputting jump while wall running and then during the jump animation you let go of your directional input. This will cause you to jump super high off a wall and again this often has character specific interactions which will (hopefully) be mentioned in the character guides.</p>
+<p>The next thing to mention is Super Jumps. These can be preformed by inputting jump while wall running and then during the jump animation you let go of your directional input. This will cause you to jump super high off a wall and again this often has character specific interactions which will (hopefully) be mentioned in the character guides.</p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr4-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun4-gif.gif" width="400" />
 </p>
 
-<p>If you do the inputs and simply detach from the wall that means you let go of your directional input too early. If you reattach immediately or dont get that much hight that means you let go of your directional input to late. Learning this timing can feel rather strict when first learning it but its actually quite lenient.</p>
+<p>If you do the inputs and simply detach from the wall that means you let go of your directional input too early. If you reattach immediately or don't get that much height that means you let go of your directional input too late. Learning this timing can feel rather strict when first learning it but it's actually quite lenient.</p>
 
-<p>There are a few quirks to super jumps that i will bring up.</p>
+<p>There are a few quirks to Super Jumps:</p>
 
-1. if you do a super jump too soon after attaching to a wall you will get a significant amount of forward momentum.
-2. after the high jump any directional input will cause your gravity to be increased dramatically however this can be avoided by using a air melee for most characters.
-3. super jumps can be done in all directions off a wall not just up. You can do what is called a sideways super jump by doing the input when holding far right or left instead of up. Diagonal jumps are also possible and thes are generally better than jumping off the wall traditionally.
-4. you can change the direction of your super jump by inputting a new directional input right before letting go of your directional input for the jump which lets you transition from a sideways wall run to a vertical super jump extremely fast.
-
-<h2>Step 3: Increasing distance and momentum<h2>
-
-When going up a long wall you can chain multiple super jumps together but if you do it too quickly you wont go up as fast. Its best to wait roughly half a second in-between each super jump for maximum speed and efficiency.
+1. If you do a Super Jump too soon after attaching to a wall you will get a significant amount of forward momentum.
+2. After the high jump any directional input will cause your gravity to be increased dramatically, however this can be avoided by using a air melee for most characters.
+3. Super Jumps can be done in all directions off a wall not just up. You can do what is called a sideways Super Jump by doing the input when holding far right or left instead of up. Diagonal jumps are also possible and thes are generally better than jumping off the wall traditionally.
+4. You can change the direction of your Super Jump by inputting a new directional input right before letting go of your directional input for the jump, which lets you transition from a sideways wall run to a vertical super jump extremely fast.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr5-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun5-gif.gif" width="400" />
 </p>
 
-When going for distance its important to note that the increased gravity effect from a forward input can be avoided with a air melee so by doing sideways super jump or forward super jump (done by preforming a normal super jump extremely quickly after attaching to a wall) you can input a air melee and then immediately start holding in the direction you want to go in order to get increased distance from your directional input without suffering from the increased gravity effect.
+<h2>Step 3: Increasing Distance and Momentum</h2>
+
+When going up a long wall you can chain multiple super jumps together but if you do it too quickly you wont go up as fast. It's best to wait roughly half a second in-between each Super Jump for maximum speed and efficiency.
+
+When going for distance it's important to note that the increased gravity effect from a forward input can be avoided with an air melee so by doing sideways super jump or forward super jump (done by preforming a normal super jump extremely quickly after attaching to a wall) you can input an air melee and then immediately start holding in the direction you want to go in order to get increased distance from your directional input without suffering from the increased gravity effect.
+
+<h2>A few important final notes</h2>
+
+There is a tech done by manually ending your sprint and inputting a grounded action at the same time that lets you use some grounded moves on a wall. Here are a few examples. However in practice few of these are actually that useful but keep an eye out for these strategies in the character guides.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr6-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun6-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun7-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun8-gif.gif" width="400" />
 </p>
 
-<h2>A few important final notes.</h2>
-
-There is a tech done by manually ending your sprint and inputting a grounded action at the same time that lets you use some grounded moves on a wall. Here are a few examples. However in practice few of these are actually that useful but keep a eye out for these strategies in the character guides (for any guidemakers reading this reach out and ill give you clips for what this tech does for your character if you want)
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr7-gif.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wr8-gif.gif" width="400" />
-</p>
-
-For flight based characters its recommend to turn auto dash on if you plan on combining them with wall runner. Flight and wall run have issues when trying to attach to a wall that makes the combination hard to manage but turning on auto dash fixes this issue since you immediately start wall running upon grabing on to the wall skipping the dash input entirely.
+For flight-based characters it's recommended to turn auto dash on if you plan on combining them with wall runner. Flight and wall run have issues when trying to attach to a wall that makes the combination hard to manage but turning on auto dash fixes this issue since you immediately start wall running upon grabbing onto the wall, skipping the dash input entirely.

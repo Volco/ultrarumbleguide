@@ -121,6 +121,7 @@ Duelists are useful to secure a team wipeout. Most of the players will try to ru
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_rapid.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nagant_strike.png" />
 </div>
 
 ## Frontliners
@@ -149,6 +150,7 @@ Frontliners the biggest archetype in the game. They usually present a middle gro
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mtlady_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_assault.png" />
+    <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_strike.png" />
     <img class="container-image-icon" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
@@ -247,6 +249,9 @@ First of all, it is crucial to land together. Choosing landing spots that are to
 Another important notice is that landing too close to each other is also not a good strategy. By landing right on top of the head of your teammate means both of you will have to contest the same loot. In an ideal situation you should take uncontested loot, or at least contest it with your enemies. Taking loot from your teammates slows down both of you and gives your enemies more freedom.
 
 Another advice is landing in the same looting zone. Sometimes, the zones may be close to each other and inexperienced players may think that splitting their team in two and going for the Aquatic and Fire zone at the same time is a good idea. In fact, it is not. Most of the teams drop together and you have a slot chance to fight 2v3 or even 1v1. And even if your last teammate decides to come for help, they will have to traverse the area in between looting zones which naturally contains less loot for them.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/sally.png" width="400"/></br>
+</p>
 
 # Social Interactions
 Every character has a voice line and emotes wheel that could be used to communicate with your teammates if you don't have a mic. Using these voicelines is actually underrated, because simple “hello” or “thank you” can really affect how teammates treat each other and make them more motivated to play as a team.
@@ -264,6 +269,10 @@ Every character has a voice line and emotes wheel that could be used to communic
 - Civilian – a ping used to mark civilians. Pretty simple.
 - Items – this one may tell your team to take a break and search for loot in a certain area. Could also be useful for saying you are about to drop your teammates some items if they need them.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pings.png" width="600"/></br>
+</p>
+
 ## Interaction with pings
 Pressing a default ping on top of any existing ping that you left will cause it to remove the existing ping.
 
@@ -271,7 +280,7 @@ If it was left by your teammate, you will confirm his ping and give it a positiv
 
 A little less intuitive feature is that you can actually leave a negative answer to any ping. To do so, hold the default ping and choose the negative option on the wheel.
 
-# Resurrection cards & Civillians
+# Resurrection Cards & Civillians
 A common mistake for most of the players is completely neglecting civilian rescue. Civilians are the source of the most valuable and game-changing items in this game: revive cards and team heals. A well-timed team heal can swing the battle in your favour, and at least one full revive card early game allows your team to have a second chance and revive your fallen allies early enough so they could still loot and collect level up cards.
 
 But sometimes you can’t afford the luxury of wasting time on saving civilians. The early game may be tough and if you lost a teammate early in the match, you should immediately search for a disengagement opportunity to search for revival cards and get your teammate back ASAP. It is crucial to collect the cards quickly, because as the match goes on, less and less revive cards remain available with each minute.
@@ -375,5 +384,4 @@ Another factor are teamheals, without them you're likely not winning any matches
     }
 </style>
 
-    </div>
-</section>
+

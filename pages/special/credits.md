@@ -1,5 +1,5 @@
 <div class="credit-box">
-  <img class="pfp" src="https://cdn.discordapp.com/attachments/1325721708036100258/1451659971576987718/pfp1.png?ex=6946fb33&is=6945a9b3&hm=66b9013c90fe3f66d9c21251d735745df3ee08d87b5b114d032e4be3780a37f0&" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
   <div class="name">Yurina</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Ultimate Guide Project Director</div>
@@ -22,14 +22,14 @@
   <div class="quote">aaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Draft Adapter</div>
   <div class="quote">I agree with Hydros on this one</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta.png" />
   <div class="name">Pneulysta</div>
   <div class="discord-tag">pneulysta</div>
   <div class="role">Draft Adapter</div>
@@ -42,7 +42,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
 
 
 <div class="credit-box">
-  <img class="pfp" src="https://cdn.discordapp.com/attachments/1325721708036100258/1451659971576987718/pfp1.png?ex=6946fb33&is=6945a9b3&hm=66b9013c90fe3f66d9c21251d735745df3ee08d87b5b114d032e4be3780a37f0&" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
   <div class="name">Yurina</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Lead Guidemaker<br/>(New and General Guides)</div>
@@ -70,11 +70,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/itsnoturpotato.png" />
   <div class="name">ItsNotUrPotato</div>
   <div class="discord-tag">itsnoturpotato</div>
   <div class="role">Lead Guidemaker<br/>(Mr. Compress)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">If I fall in the forest, but there's no one around to see it happen, did I really cry on the ground for 5 minutes?</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
@@ -84,11 +84,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/duch.png" />
   <div class="name">Duch</div>
   <div class="discord-tag">maddriot</div>
   <div class="role">Guidemaker<br/>(Mr. Compress)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">Hear me, Knights who seek to shatter my Golden Age! Stand Proud! For you have the privilege of falling before me and becoming yet another page in the tale of my Supremacy<br/>-T.M. Opera O</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
@@ -106,12 +106,12 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Lead Guidemaker<br/>(Ibara Shiozaki)</div>
   <div class="role">Lead Guidemaker<br/>(TUNING and Teamwork Guides)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">What an Earth?!</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
