@@ -11,9 +11,8 @@
   <img class="pfp" src="https://ultrarumble.com/assets/pfp.png" />
   <div class="name">Hydros</div>
   <div class="discord-tag">hydros</div>
-  <div class="role">Lead Developer</div>
-  <div class="role">Graphic & Web Designer</div>
-  <div class="quote">I am happy to be apart of a project that further helps players even more. The reason for the MHUR Database was for helping players find information, and now even more can be found in one spot. Created for Players by Players.</div>
+  <div class="role">Lead Developer<br/>Graphic & Web Designer</div>
+  <div class="quote">I am happy to be apart of a project that further helps players even more. The reason for the MHUR Database was for helping players find information, and now even more can be found in one spot. Created for Players by Players.<br/>Also, I like Lady Nagant's Feet.</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/lemon.png" />
