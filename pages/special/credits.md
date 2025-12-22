@@ -12,6 +12,7 @@
   <div class="name">Hydros</div>
   <div class="discord-tag">hydros</div>
   <div class="role">Lead Developer</div>
+  <div class="role">Graphic & Web Designer</div>
   <div class="quote">I am happy to be apart of a project that further helps players even more. The reason for the MHUR Database was for helping players find information, and now even more can be found in one spot. Created for Players by Players.</div>
 </div>
 <div class="credit-box">
