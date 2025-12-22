@@ -107,7 +107,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="name">Zyos_Zett</div>
   <div class="discord-tag">zyos_zett</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
-  <div class="quote">he who flew too close to the moon</div>
+  <div class="quote">He who flew too close to the moon.</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
