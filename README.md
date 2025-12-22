@@ -196,7 +196,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 ### Guide
 - https://ultrarumble.com/guide
   - When the guide is updated, the database website automatically updates with the latest version.
-
+<!--
 
 ### Characters & Quirk Skill Sets Page ID:
 - 100 - Izuku Midoriya 
@@ -248,7 +248,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 - 11500 - Lady Nagant
 - 20100 - All For One (Youth Age)
 - 20200 - Izuku Midoriya OFA
-<!--<ol>
+<ol>
   <li value="100">Izuku Midoriya</li>
   <li value="101">Izuku Midoriya (Full Bullet)</li>
   <li value="200">Katsuki Bakugo</li>
@@ -345,7 +345,7 @@ DO NOT DELETE THIS LIST!
 10500. Hitoshi Shinso
 10900. Present Mic
 20100. All For One (Youth age)
-20200. Izuku Midoriya OFA-->
+20200. Izuku Midoriya OFA
 <br/>
 
 *Made for the community by the community*
@@ -355,6 +355,6 @@ DO NOT DELETE THIS LIST!
   - Character guide compilations and editing
 - Lemon (lemollion)
   - Created the character banner images
-
+-->
 
 <sub><sup>Not affiliated with or endorsed by Bandai Namco Entertainment Inc. / Byking Inc.</sup></sub>
