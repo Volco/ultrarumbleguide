@@ -140,15 +140,12 @@ When going up a long wall you can chain multiple super jumps together but if you
 
 When going for distance it's important to note that the increased gravity effect from a forward input can be avoided with an air melee so by doing sideways super jump or forward super jump (done by preforming a normal super jump extremely quickly after attaching to a wall) you can input an air melee and then immediately start holding in the direction you want to go in order to get increased distance from your directional input without suffering from the increased gravity effect.
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun6-gif.gif" width="400" />
-</p>
-
 <h2>A few important final notes</h2>
 
 There is a tech done by manually ending your sprint and inputting a grounded action at the same time that lets you use some grounded moves on a wall. Here are a few examples. However in practice few of these are actually that useful but keep an eye out for these strategies in the character guides.
 
 <p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun6-gif.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun7-gif.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun8-gif.gif" width="400" />
 </p>
