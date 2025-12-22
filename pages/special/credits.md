@@ -159,11 +159,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">Mhur is the only game where five people hunt a child and fight for who gets to touch him</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/letha1one.png" />
   <div class="name">Letha1One</div>
   <div class="discord-tag">_lethalone_</div>
   <div class="role">Lead Guidemaker<br/>(Inferno Fist)</div>
-  <div class="quote">*Empty Message*</div>
+  <div class="quote">Thank you to the creators and contributors of this website. I am truly grateful for the opportunity to contribute to the Endeavor (Inferno Fist) guide. I will continue to update and edit the guide as game updates  happen when needed. Thank you for reading, and have a great day.❤️</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
