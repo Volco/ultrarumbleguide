@@ -134,7 +134,7 @@ You start wall running by doing one of 2 things:
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/wallrun5-gif.gif" width="400" />
 </p>
 
-<h2>Step 3: Increasing Distance and Momentum<h2>
+<h2>Step 3: Increasing Distance and Momentum</h2>
 
 When going up a long wall you can chain multiple super jumps together but if you do it too quickly you wont go up as fast. It's best to wait roughly half a second in-between each Super Jump for maximum speed and efficiency.
 
