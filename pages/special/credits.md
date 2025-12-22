@@ -8,7 +8,7 @@
   <div class="quote">Hamsters are so edible</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://cdn.discordapp.com/avatars/113350262286020608/e15f53b5b5458c19b9dc660f31eb40d6.png" />
+  <img class="pfp" src="https://ultrarumble.com/assets/pfp.png" />
   <div class="name">Hydros</div>
   <div class="discord-tag">hydros</div>
   <div class="role">Lead Developer</div>
