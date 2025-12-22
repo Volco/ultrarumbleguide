@@ -50,14 +50,14 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">Bratty Femboys are the best</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife.png" />
   <div class="name">no_life456780</div>
   <div class="discord-tag">no_life456780</div>
   <div class="role">Lead Guidemaker<br/>(Full Bullet)</div>
   <div class="quote">fix full bullet beta momentum</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/volco.png" />
   <div class="name">Volco</div>
   <div class="discord-tag">volcos</div>
   <div class="role">Lead Guidemaker<br/>(Catastrophe)</div>
@@ -78,11 +78,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">If I fall in the forest, but there's no one around to see it happen, did I really cry on the ground for 5 minutes?</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
   <div class="name">Bry</div>
   <div class="discord-tag">bry8004</div>
   <div class="role">Guidemaker<br/>(Mr. Compress)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">*Empty Message*</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/duch.png" />
@@ -99,19 +99,18 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">Rise and Shine, Kendos</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
   <div class="name">Gogorilla37</div>
   <div class="discord-tag">gogorilla37</div>
   <div class="role">Lead Guidemaker<br/>(Tamaki Amajiki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">*Empty Message*</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
   <div class="name">Zyos_Zett</div>
   <div class="discord-tag">zyos_zett</div>
-  <div class="role">Contributor<br/>(Tamaki Amajiki)</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">he who flew too close to the moon</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
@@ -122,25 +121,25 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">What on Earth?!</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/rjboss.png" />
   <div class="name">RjBoss08</div>
   <div class="discord-tag">rjboss08</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">Vines forever, Rapid Deku never.</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/thespectator.png" />
   <div class="name">The Spectator</div>
   <div class="discord-tag">thecubicspectator</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">I see you... <3 :D</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
   <div class="name">Thorn Maiden</div>
   <div class="discord-tag">swagbag63</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">*Empty Message*</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/hugepollution.png" />
@@ -150,17 +149,30 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">You want me to help in some kind of a big guide that INCLUDES Class A? Sounds like a horrible idea, but since I’m a main of one of the only three good first year hero students, someone has to step up! A shame really. Since they added the no good attention seekers who always get themselves into trouble all the time in this game, they’re all going to have to get guides adapted too. Meanwhile there’s only three members of Class B in the entire game… what are they even doing? Byking is no use at all, seriously.</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/gabis.png" />
   <div class="name">Gabis</div>
   <div class="discord-tag">ggabbis</div>
   <div class="role">Lead Guidemaker<br/>(Shoto Todoroki)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">Give strike shoto gamma cancels</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
   <div class="name">Nugget</div>
   <div class="discord-tag">nugget0575</div>
   <div class="role">Contributor<br/>(Shoto Todoroki)</div>
   <div class="quote">Mhur is the only game where five people hunt a child and fight for who gets to touch him</div>
 </div>
-
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">Letha1One</div>
+  <div class="discord-tag">_lethalone_</div>
+  <div class="role">Lead Guidemaker<br/>(Inferno Fist)</div>
+  <div class="quote">*Empty Message*</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">ZOL</div>
+  <div class="discord-tag">_zol_</div>
+  <div class="role">Lead Guidemaker<br/>(Inferno Fist)</div>
+  <div class="quote">*Empty Message*</div>
+</div>
