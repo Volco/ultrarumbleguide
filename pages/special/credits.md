@@ -15,11 +15,11 @@
   <div class="quote">I like Lady Nagant's feet.</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/lemon.png" />
   <div class="name">Lemon (Lemollion)</div>
   <div class="discord-tag">lemollion</div>
   <div class="role">Graphic Artist</div>
-  <div class="quote">aaaaaaaa</div>
+  <div class="quote">Spinner clipart png</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko.png" />
@@ -63,11 +63,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK BRICK </div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="[https://ultrarumble.com/assets/site.png](https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/Danoula.pnp" />
   <div class="name">Danoula</div>
   <div class="discord-tag">danoula</div>
   <div class="role">Lead Guidemaker<br/>(Momo Yaoyorozu)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">“I’ve never quite realized how beautiful this world is.” -A2<br/>Also bring back Momo’s Season 1 shield. She needs it with the current meta!</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/itsnoturpotato.png" />
@@ -89,6 +89,13 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="discord-tag">maddriot</div>
   <div class="role">Guidemaker<br/>(Mr. Compress)</div>
   <div class="quote">Hear me, Knights who seek to shatter my Golden Age! Stand Proud! For you have the privilege of falling before me and becoming yet another page in the tale of my Supremacy<br/>-T.M. Opera O</div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/itsukafoxdo.png" />
+  <div class="name">Itsukafoxdo</div>
+  <div class="discord-tag">itsukafoxdo037</div>
+  <div class="role">Lead Guidemaker<br/>(Itsuka Kendo)</div>
+  <div class="quote">Rise and Shine, Kendos</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
@@ -135,7 +142,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/hugepollution.png" />
   <div class="name">Huge Pollution (The Doc)</div>
   <div class="discord-tag">the_doctr_</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
@@ -150,7 +157,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
-  <div class="name">nugget</div>
+  <div class="name">Nugget</div>
   <div class="discord-tag">nugget0575</div>
   <div class="role">Contributor<br/>(Shoto Todoroki)</div>
   <div class="quote">Mhur is the only game where five people hunt a child and fight for who gets to touch him</div>
