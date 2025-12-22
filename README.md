@@ -12,6 +12,8 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title5.png"/>
     </a>
 </p>
+<br/>
+<a class="p-1" href="https://discord.gg/ultraagency" target="_blank"><img style="border-radius: 10px; margin-bottom: 10px;" src="assets/discord-join.png" loading="lazy" width="180px" alt=""></a>
 
 <style>
     .guides-menu {
