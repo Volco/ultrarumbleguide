@@ -113,8 +113,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
-  <div class="role">Lead Guidemaker<br/>(Ibara Shiozaki)</div>
-  <div class="role">Lead Guidemaker<br/>(TUNING and Teamwork Guides)</div>
+  <div class="role">Lead Guidemaker<br/>(Ibara Shiozaki)<br/>(TUNING and Teamwork Guides)</div>
   <div class="quote">What on Earth?!</div>
 </div>
 <div class="credit-box">
