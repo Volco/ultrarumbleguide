@@ -2,9 +2,7 @@
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
   <div class="name">Yurina</div>
   <div class="discord-tag">maekawayurina</div>
-  <div class="role">Ultimate Guide Project Director</div>
-  <div class="role">Graphic Artist</div>
-  <div class="role">Draft Adapter</div>
+  <div class="role">Ultimate Guide Project Director<br/>Graphic Artist<br/>Draft Adapter</div>
   <div class="quote">Hamsters are so edible</div>
 </div>
 <div class="credit-box">
