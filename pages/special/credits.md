@@ -111,7 +111,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="discord-tag">fibiko</div>
   <div class="role">Lead Guidemaker<br/>(Ibara Shiozaki)</div>
   <div class="role">Lead Guidemaker<br/>(TUNING and Teamwork Guides)</div>
-  <div class="quote">What an Earth?!</div>
+  <div class="quote">What on Earth?!</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
