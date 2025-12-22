@@ -10,10 +10,10 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 <p align="center">
     <a href="https://ultrarumble.com/guide/credits" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title5.png"/>
-    </a>
+    </a><br/>
+    <a class="p-1" href="https://discord.gg/ultraagency" target="_blank"><img style="border-radius: 10px; margin-bottom: 10px;" src="assets/discord-join.png" loading="lazy" width="180px" alt=""></a>
 </p>
-<br/>
-<a class="p-1" href="https://discord.gg/ultraagency" target="_blank"><img style="border-radius: 10px; margin-bottom: 10px;" src="assets/discord-join.png" loading="lazy" width="180px" alt=""></a>
+<hr class="my-5">
 
 <style>
     .guides-menu {
