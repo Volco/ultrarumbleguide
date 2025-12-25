@@ -96,11 +96,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">Rise and Shine, Kendos</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/gogorilla37.png" />
   <div class="name">Gogorilla37</div>
   <div class="discord-tag">gogorilla37</div>
   <div class="role">Lead Guidemaker<br/>(Tamaki Amajiki)</div>
-  <div class="quote">*Empty Message*</div>
+  <div class="quote">Tipper Tech</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/zyos_zett.png" />
@@ -166,9 +166,9 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">Thank you to the creators and contributors of this website. I am truly grateful for the opportunity to contribute to the Endeavor (Inferno Fist) guide. I will continue to update and edit the guide as game updates  happen when needed. Thank you for reading, and have a great day.❤️</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/zol.png" />
   <div class="name">ZOL</div>
   <div class="discord-tag">_zol_</div>
   <div class="role">Lead Guidemaker<br/>(Inferno Fist)</div>
-  <div class="quote">*Empty Message*</div>
+  <div class="quote"><b>HEROES FORGE AHEAD</b></div>
 </div>
