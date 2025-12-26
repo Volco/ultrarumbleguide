@@ -1,93 +1,60 @@
 <style>
-.tuning-box {
-    text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
+    .tuning-box {
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
 
-.tuning-card {
-    display: flex;
-    flex-direction: row;
-    width: 100%; 
-    max-width: 520px; 
-    padding: 15px;
-    gap: 15px;
-    text-align: left;
-    background-color: #24262E;
-    border-radius: 12px;
-    box-sizing: border-box; 
-    overflow: hidden;
-}
+    .tuning-card {
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+        width: 100%; 
+        max-width: 520px; 
+        padding: 15px;
+        gap: 15px;
+        text-align: left;
+        background-color: #24262E;
+        border-radius: 12px;
+        box-sizing: border-box; 
+        overflow: hidden;
+    }
 
-.tuning-box-mini {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 3px;
-}
+    .tuning-card-mini {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 3px;
+    }
 
-.tuning-image {
-    max-height: 125px;
-    max-width: 125px;
-    align-self: center;
-}
+    .tuning-image {
+        max-height: 125px;
+        max-width: 125px;
+        align-self: center;
+    }
 
-.tuning-image-mini {
-    max-height: 80px;
-    max-width: 80px;
-}
-
-
-.currency-image {
-    max-width: 35px;
-    max-height: 35px;
-    vertical-align: middle;  
-}
-
-.currency-heading {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-}
-
-.image-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    margin-bottom: 20px;
-    padding: 15px;
-}
-
-.container-image-icon {
-    flex: 1 1 auto;
-    max-width: 100px;
-    max-height: 150px;
-    object-fit: contain;
-}
-
-@media (max-width: 768px) {
-        .container-image-icon {
-            max-width: 75px; 
-            max-height: 100px;
-        }
-        
-        .image-container {
-            gap: 5px;
-            margin-bottom: 10px;
-            padding: 7px;
-        }
-}
+    .tuning-image-mini {
+        max-height: 80px;
+        max-width: 80px;
+    }
 
 
-</style>
+    .currency-image {
+        max-width: 35px;
+        max-height: 35px;
+        vertical-align: middle;  
+    }
 
-<style>
+    .currency-heading {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
     .role-image {
         max-width: 35px;
         max-height: 35px;  
@@ -108,15 +75,13 @@
     }
 
     @media (max-width: 768px) {
-            .container-image-icon {
-                max-width: 75px; 
+            .tuning-image {
+                max-width: 100px; 
                 max-height: 100px;
             }
-            
-            .image-container {
-                gap: 5px;
-                margin-bottom: 10px;
-                padding: 7px;
+            .tuning-image-mini {
+                max-width: 70px; 
+                max-height: 70px;
             }
     }
 </style>
@@ -446,7 +411,7 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         </div>
     </div>
     <div class="tuning-card">
-        <div class="tuning-box-mini">
+        <div class="tuning-card-mini">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_00.png">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_01.png">
         </div>
@@ -456,7 +421,7 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         </div>
     </div>
     <div class="tuning-card">
-        <div class="tuning-box-mini">
+        <div class="tuning-card-mini">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch101_00.png">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch017_00.png">
         </div>
@@ -552,7 +517,7 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         </div>
     </div>
     <div class="tuning-card">
-        <div class="tuning-box-mini">
+        <div class="tuning-card-mini">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_00.png">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch018_01.png">
         </div>
@@ -562,7 +527,7 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         </div>
     </div>
     <div class="tuning-card">
-        <div class="tuning-box-mini">
+        <div class="tuning-card-mini">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch101_00.png">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch017_00.png">
         </div>
@@ -607,7 +572,7 @@ Character Data Exchange Tickets may be used instead of usual character data in c
         </div>
     </div>
     <div class="tuning-card">
-        <div class="tuning-box-mini">
+        <div class="tuning-card-mini">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch015_02.png">
             <img class="tuning-image-mini" src="https://ultrarumble.com/assets/roleslots/T_ui_UniqueSkill_ch101_00.png">
         </div>
