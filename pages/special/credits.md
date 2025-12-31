@@ -50,7 +50,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife.png" />
   <div class="name">no_life456780</div>
   <div class="discord-tag">no_life456780</div>
-  <div class="role">Lead Guidemaker<br/>(Full Bullet)</div>
+  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>Lead Guidemaker<br/>(Slicing Wind)</div>
   <div class="quote">fix full bullet beta momentum</div>
 </div>
 <div class="credit-box">
@@ -171,4 +171,18 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="discord-tag">_zol_</div>
   <div class="role">Lead Guidemaker<br/>(Inferno Fist)</div>
   <div class="quote"><b>HEROES FORGE AHEAD</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/xmandark.png" />
+  <div class="name">Xmandark</div>
+  <div class="discord-tag">xmandark</div>
+  <div class="role">Contributor<br/>(Slicing Wind)</div>
+  <div class="quote"><b>combo characters are fun</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/endy.png" />
+  <div class="name">ENDY</div>
+  <div class="discord-tag">endy5793</div>
+  <div class="role">Contributor<br/>(Slicing Wind)</div>
+  <div class="quote"><b>endy5793,happy to be of use</b></div>
 </div>
