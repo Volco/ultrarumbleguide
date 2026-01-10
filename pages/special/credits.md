@@ -50,7 +50,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife.png" />
   <div class="name">no_life456780</div>
   <div class="discord-tag">no_life456780</div>
-  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>Lead Guidemaker<br/>(Slicing Wind)</div>
+  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/>Contributor<br/>(Lady Nagant)</div>
   <div class="quote">fix full bullet beta momentum</div>
 </div>
 <div class="credit-box">
@@ -113,7 +113,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
-  <div class="role">Lead Guidemaker:<br/>(Ibara Shiozaki)<br/>(TUNING and Teamwork Guides)</div>
+  <div class="role">Lead Guidemaker:<br/>(Ibara Shiozaki)<br/>(TUNING and Teamwork Guides)<br/>(Lady Nagant)</div>
   <div class="quote">What on Earth?!</div>
 </div>
 <div class="credit-box">
@@ -185,4 +185,32 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="discord-tag">endy5793</div>
   <div class="role">Contributor<br/>(Slicing Wind)</div>
   <div class="quote"><b>endy5793,happy to be of use</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">Soni-Himi</div>
+  <div class="discord-tag">sonikku09</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>*Empty Message*</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta.png" />
+  <div class="name">Pneulysta</div>
+  <div class="discord-tag">pneulysta</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>*Empty Message*</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">TheVipGamer</div>
+  <div class="discord-tag">thevipgamer</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>*Empty Message*</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">BrinySpy</div>
+  <div class="discord-tag">brinyspy1393</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>*Empty Message*</b></div>
 </div>
