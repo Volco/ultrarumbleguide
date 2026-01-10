@@ -153,7 +153,7 @@ Using Ability Cards gives the user a colored shine, so you can sometimes see if 
 </p>
 
 # Gameplay: Plus Ultra/Plus Chaos
-At the bottom center of your screen there is the PU (Plus Ultra) bar. This bar fills everytime you lost HP and over time, if you have KOd allies, then the natural filling rate increases. Once your PU hits 100%, you will be able to use it by pressing the indicated input (so long as you're not drinking an item, in which case you have to stop and then press the button).<br>
+At the bottom center of your screen there is the PU (Plus Ultra) bar. This bar fills everytime you lost HP and over time, if you have KOd allies, then the natural filling rate increases. Additionally, death of your first teammate fills 20% of your PU gauge. If the second teammate falls, you will recieve additional 40% PU charge. Once your PU hits 100%, you will be able to use it by pressing the indicated input (so long as you're not drinking an item, in which case you have to stop and then press the button).<br>
 <br>
 When using Plus Ultra, your character will perform a short animation which renders the user invincible and pushes close enemies away. Plus Ultra is very useful, as it generates all of your GP, which is also why it's recommended to only use it if you have no GP, unless you have so little HP that the next hit would kill you. Plus Ultra also temporarily increases the level of all your skills to Level PU, which is some sort of Level 10 only reachable through Plus Ultra. Level PU never increases the attack's size, ammo, or range, just damage and reload speed, both of which increase by a noticeable amount, allowing you to deal high damage and get your abilities super fast.<br>
 <br>
