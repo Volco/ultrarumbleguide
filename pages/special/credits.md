@@ -1,6 +1,6 @@
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
-  <div class="name">Yurina</div>
+  <div class="name">Yurina (Staff))</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Ultimate Guide Project Director<br/>Graphic Artist<br/>Draft Adapter</div>
   <div class="quote">Hamsters are so edible</div>
@@ -21,14 +21,14 @@
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko.png" />
-  <div class="name">Fibiko</div>
+  <div class="name">Fibiko (Staff)</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Draft Adapter</div>
   <div class="quote">I agree with Hydros on this one</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta.png" />
-  <div class="name">Pneulysta</div>
+  <div class="name">Pneulysta (Staff)</div>
   <div class="discord-tag">pneulysta</div>
   <div class="role">Draft Adapter</div>
   <div class="quote">Thank you for taking the time out of your day to learn the names of the talented people who helped produced this website and its guides! I’ve had a lot of fun having the opportunity to try and help others with this website so I hope you keep enjoying and appreciating the hard work everyone else puts in!<br/>
@@ -50,7 +50,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife.png" />
   <div class="name">no_life456780</div>
   <div class="discord-tag">no_life456780</div>
-  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/>Contributor<br/>(Lady Nagant)</div>
+  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/><br/>Contributor<br/>(Lady Nagant)</div>
   <div class="quote">fix full bullet beta momentum</div>
 </div>
 <div class="credit-box">
