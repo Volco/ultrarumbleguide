@@ -187,18 +187,21 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote"><b>endy5793,happy to be of use</b></div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/sonihimi.png" />
   <div class="name">Soni-Himi</div>
   <div class="discord-tag">sonikku09</div>
   <div class="role">Contributor<br/>(Lady Nagant)</div>
-  <div class="quote"><b>*Empty Message*</b></div>
+  <div class="quote"><b>I can transform and fall in love easy with everything I find cute and all things considered I love playing every character in this game. Growing pains aside this game is pretty creative and everyone feels unique in their own special ways and hope that this project helps even just one more person connect with the game like I did. All this to say I took your blood without consent and may have cutely framed you for murder, whoopsies! Silly me! The FBI are looking for you now (Runs away)</b></div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta2.png" />
   <div class="name">Pneulysta</div>
   <div class="discord-tag">pneulysta</div>
   <div class="role">Contributor<br/>(Lady Nagant)</div>
-  <div class="quote"><b>*Empty Message*</b></div>
+  <div class="quote"><b>Play Tokyo Mirage Sessions #FE Encore</b>
+  </b>
+  Also,</b>
+  Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady        Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sor--</b></div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
