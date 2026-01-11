@@ -1,6 +1,6 @@
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
-  <div class="name">Yurina</div>
+  <div class="name">Yurina (Staff))</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Ultimate Guide Project Director<br/>Graphic Artist<br/>Draft Adapter</div>
   <div class="quote">Hamsters are so edible</div>
@@ -21,14 +21,14 @@
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko.png" />
-  <div class="name">Fibiko</div>
+  <div class="name">Fibiko (Staff)</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Draft Adapter</div>
   <div class="quote">I agree with Hydros on this one</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta.png" />
-  <div class="name">Pneulysta</div>
+  <div class="name">Pneulysta (Staff)</div>
   <div class="discord-tag">pneulysta</div>
   <div class="role">Draft Adapter</div>
   <div class="quote">Thank you for taking the time out of your day to learn the names of the talented people who helped produced this website and its guides! I’ve had a lot of fun having the opportunity to try and help others with this website so I hope you keep enjoying and appreciating the hard work everyone else puts in!<br/>
@@ -50,7 +50,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nolife.png" />
   <div class="name">no_life456780</div>
   <div class="discord-tag">no_life456780</div>
-  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>Lead Guidemaker<br/>(Slicing Wind)</div>
+  <div class="role">Lead Guidemaker<br/>(Full Bullet)<br/>(Slicing Wind)<br/><br/>Contributor<br/>(Lady Nagant)</div>
   <div class="quote">fix full bullet beta momentum</div>
 </div>
 <div class="credit-box">
@@ -113,7 +113,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
-  <div class="role">Lead Guidemaker:<br/>(Ibara Shiozaki)<br/>(TUNING and Teamwork Guides)</div>
+  <div class="role">Lead Guidemaker:<br/>(Ibara Shiozaki)<br/>(TUNING and Teamwork Guides)<br/>(Lady Nagant)</div>
   <div class="quote">What on Earth?!</div>
 </div>
 <div class="credit-box">
@@ -185,4 +185,35 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="discord-tag">endy5793</div>
   <div class="role">Contributor<br/>(Slicing Wind)</div>
   <div class="quote"><b>endy5793,happy to be of use</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/sonihimi.png" />
+  <div class="name">Soni-Himi</div>
+  <div class="discord-tag">sonikku09</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>I can transform and fall in love easy with everything I find cute and all things considered I love playing every character in this game. Growing pains aside this game is pretty creative and everyone feels unique in their own special ways and hope that this project helps even just one more person connect with the game like I did. All this to say I took your blood without consent and may have cutely framed you for murder, whoopsies! Silly me! The FBI are looking for you now (Runs away)</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta2.png" />
+  <div class="name">Pneulysta</div>
+  <div class="discord-tag">pneulysta</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>Play Tokyo Mirage Sessions #FE Encore</b>
+  </b>
+  Also,</b>
+  Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady        Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sorry, Lady Namommy, sor--</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">TheVipGamer</div>
+  <div class="discord-tag">thevipgamer</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>*Empty Message*</b></div>
+</div>
+<div class="credit-box">
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <div class="name">BrinySpy</div>
+  <div class="discord-tag">brinyspy1393</div>
+  <div class="role">Contributor<br/>(Lady Nagant)</div>
+  <div class="quote"><b>*Empty Message*</b></div>
 </div>
