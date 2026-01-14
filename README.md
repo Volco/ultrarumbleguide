@@ -26,7 +26,6 @@ Click the links below to travel to the specific guide you are interested in:
 
 * **Main Guide Page:** [https://ultrarumble.com/guide](https://ultrarumble.com/guide)
 * **Credits & Contributors:** [https://ultrarumble.com/guide/credits](https://ultrarumble.com/guide/credits)
-* **Host Website:** [https://ultrarumble.com/](https://ultrarumble.com/)
 
 ## ⚖️ Disclaimer
 
