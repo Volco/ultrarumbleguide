@@ -8,7 +8,7 @@
 
 Welcome to the **My Hero Ultra Rumble Ultimate Player Guide**!
 
-This project serves as a "macro-guide" designed to be the central hub for players of all skill levels. It aggregates specific, high-quality resources ranging from beginner mechanics to advanced competitive strategies. Whether you are a new player learning the ropes or a veteran looking to fine-tune your quirk sets, you will find the information you need here.
+This is a community driven project serves as a "macro-guide" designed to be the central hub for players of all skill levels. It aggregates specific, high-quality resources ranging from beginner mechanics to advanced competitive strategies. Whether you are a new player learning the ropes or a veteran looking to fine-tune your quirk sets, you will find the information you need here.
 
 ## 🗂️ Guide Contents
 
@@ -19,8 +19,6 @@ This project is divided into the following specialized sections:
 * **⚔️ General Player Guide** – Strategies that apply across the board, regardless of your main.
 * **⚙️ TUNING Guide** – Technical adjustments and settings to optimize your gameplay.
 * **🤝 Teamwork Guide** – Tactics for coordination, reviving, and squad synergy.
-
-*When reading this guide, please check the headers to easily scroll to the specific section that interests you most.*
 
 ## 💬 Community & Contribution
 
