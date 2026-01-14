@@ -8,24 +8,31 @@
 
 Welcome to the **My Hero Ultra Rumble Ultimate Player Guide**!
 
-This project is a "macro-guide" designed to be the central hub for players of all skill levels. It aggregates specific, high-quality resources ranging from beginner mechanics to advanced competitive strategies. Whether you are a new player learning the ropes or a veteran looking to fine-tune your quirk sets, you will find the information you need here.
+This project serves as a "macro-guide" designed to be the central hub for players of all skill levels. It aggregates specific, high-quality resources ranging from beginner mechanics to advanced competitive strategies. Whether you are a new player learning the ropes or a veteran looking to fine-tune your quirk sets, you will find the information you need here.
 
-## 🗂️ Guide Sections
+## 🗂️ Guide Contents
 
-Click the links below to travel to the specific guide you are interested in:
+This project is divided into the following specialized sections:
 
-* **🔰 [New Player Guide](https://ultrarumble.com/guide)** – Essential tips and mechanics for those just starting their journey.
-* **🦸 [Character Guides](https://ultrarumble.com/guide)** – In-depth breakdowns of specific characters, quirk sets, and match-ups.
-* **⚔️ [General Player Guide](https://ultrarumble.com/guide)** – Strategies that apply across the board, regardless of your main.
-* **⚙️ [TUNING Guide](https://ultrarumble.com/guide)** – Technical adjustments and settings to optimize your gameplay.
-* **🤝 [Teamwork Guide](https://ultrarumble.com/guide)** – Tactics for coordination, reviving, and squad synergy.
+* **🔰 New Player Guide** – Essential tips and mechanics for those just starting their journey.
+* **🦸 Character Guides** – In-depth breakdowns of specific characters, quirk sets, and match-ups.
+* **⚔️ General Player Guide** – Strategies that apply across the board, regardless of your main.
+* **⚙️ TUNING Guide** – Technical adjustments and settings to optimize your gameplay.
+* **🤝 Teamwork Guide** – Tactics for coordination, reviving, and squad synergy.
 
-*When reading this repository, please check the headers to easily scroll to the section that interests you most.*
+*When reading this guide, please check the headers to easily scroll to the specific section that interests you most.*
 
-## 🔗 Official Links
+## 💬 Community & Contribution
+
+Want to help improve the guide? Join our community to share your thoughts, provide feedback, or apply to help write and maintain our guides!
+
+* **Join the Guide Discord:** [https://discord.gg/z5JqqtfuDK](https://discord.gg/z5JqqtfuDK)
+
+## 🔗 Project Links
 
 * **Main Guide Page:** [https://ultrarumble.com/guide](https://ultrarumble.com/guide)
 * **Credits & Contributors:** [https://ultrarumble.com/guide/credits](https://ultrarumble.com/guide/credits)
+* **Host Website:** [https://ultrarumble.com/](https://ultrarumble.com/)
 
 ## ⚖️ Disclaimer
 
