@@ -96,8 +96,6 @@ Here you will see general notifications such as an agency member's winstreak or 
 ## Bulletin Board
 The agency's chat, that's really it.
 
-# Agencies: 
-
 # Agencies: Ranking and Leagues
 While players climb the player ranking by receiving likes (Bulletin Board) and gaining points in ranked matches (MVP), agencies climb ranks through simply playing matches. Everytime you play a match, you get a certain amount of Contribution Points that is higher the better you perform in a match, and if you're playing with another agency member. However, unlike ranked points for individual players, these do not go down, so agency rankings are mostly about who plays the most matches in a season. Unfortunately, the top 15~ agencies (at least on Steam) are cheat agencies, so those placements are lost. The higher your agency places in the ranking, the better your rewards will be. Click the "See Rewards" button for more information.
 <p align="center">
