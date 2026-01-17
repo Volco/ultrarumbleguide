@@ -48,7 +48,37 @@ Leveling Agency will increase the amount of Gold you gain, not really a resource
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto6.png" width="800"/>
 </p>
 
-Leveling these three donation points is important to raise the overall Agency Level, which will allow the agency to sustain more members, as new agencies can only support 10 players, while max level agencies can support up to 40 players.
+Leveling these three donation points is important to raise the overall Agency Level. Agency Level is calculated by adding up the levels of all 3 facilities and dividing them by 3 (rounding down if the result is decimal). Raising Agency level unlocks new member slots, here's a list of how many slots each agency level has:
+
+- Agency Level 74, 75, 76, 77, 78, 79 and 80: 40 Slots
+- Agency Level 70, 71, 72 and 73: 39 Slots
+- Agency Level 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68 and 69: 37 Slots
+- Agency Level 49 and 50: 35 Slots
+- Agency Level 45, 46, 47 and 48: 34 Slots
+- Agency Level 41, 42, 43 and 44: 33 Slots
+- Agency Level 37, 38, 39 and 40: 32 Slots
+- Agency Level 33, 34, 35 and 36: 31 Slots
+- Agency Level 31 and 32: 30 Slots
+- Agency Level 29 and 30: 29 Slots
+- Agency Level 27 and 28: 28 Slots
+- Agency Level 25 and 26: 27 Slots
+- Agency Level 23 and 24: 26 Slots
+- Agency Level 21 and 22: 25 Slots
+- Agency Level 19 and 20: 24 Slots
+- Agency Level 17 and 18: 23 Slots
+- Agency Level 15 and 16: 22 Slots
+- Agency Level 13 and 14: 21 Slots
+- Agency Level 11 and 12: 20 slots
+- Agency Level 10: 19 Slots
+- Agency Level 9: 18 Slots
+- Agency Level 8: 17 Slots
+- Agency Level 7: 16 Slots
+- Agency Level 6: 15 Slots
+- Agency Level 5: 14 Slots
+- Agency Level 4: 13 Slots
+- Agency Level 3: 12 Slots
+- Agency Level 2: 11 Slots
+- Agency Level 1: 10 Slots
 
 On the left side you might also see stuff concerning leagues, but that's for later in this sub-guide.
 
@@ -66,8 +96,10 @@ Here you will see general notifications such as an agency member's winstreak or 
 ## Bulletin Board
 The agency's chat, that's really it.
 
+# Agencies: 
+
 # Agencies: Ranking and Leagues
-While players climb the player ranking by receiving likes (Bulletin Board) and gaining points in ranked matches (MVP), agencies climb ranks through simply playing matches. Everytime you play a match, you get a certain amount of Contribution Points that is higher the better you perform in a match, however, unlike ranked points for individual players, these do not go down, so agency rankings are mostly about who plays the most matches in a season. Unfortunately, the top 15~ agencies (at least on Steam) are cheat agencies, so those placements are lost. The higher your agency places in the ranking, the better your rewards will be. Click the "See Rewards" button for more information.
+While players climb the player ranking by receiving likes (Bulletin Board) and gaining points in ranked matches (MVP), agencies climb ranks through simply playing matches. Everytime you play a match, you get a certain amount of Contribution Points that is higher the better you perform in a match, and if you're playing with another agency member. However, unlike ranked points for individual players, these do not go down, so agency rankings are mostly about who plays the most matches in a season. Unfortunately, the top 15~ agencies (at least on Steam) are cheat agencies, so those placements are lost. The higher your agency places in the ranking, the better your rewards will be. Click the "See Rewards" button for more information.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto8.png" width="400"/>
 </p>
