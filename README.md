@@ -1,196 +1,37 @@
-<p align="center">
-    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide.jpg" width="100%"/>
-</p>
+# My Hero Ultra Rumble: Ultimate Player Guide
 
-# <a style="color: rgba(175,100,237,255) !important;">Ultimate Player Guide to My Hero Ultra Rumble</a><br>
+![Ultimate Player Guide Banner](https://ultrarumble.com/assets/guide/guide.jpg)
 
-Welcome to the My Hero Ultra Rumble Ultimate Player Guide!
-This is a macro-guide that contains smaller guides, such as the New Player Guide, the Character Guides, the General Player Guide, the TUNING Guide and the Teamwork Guide. You can click one of the buttons below to travel to the one you're interested in. When reading this guide, check each header's title to see if you're interested in that specific bit of the guide or if you'd rather scroll to the next.
+> **Note:** This is the source repository for the comprehensive community guide hosted at [ultrarumble.com](https://ultrarumble.com).
 
-<p align="center">
-    <a href="https://ultrarumble.com/guide/credits" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title5.png"/>
-    </a><br/>
-    <a class="p-1" href="https://discord.gg/z5JqqtfuDK" target="_blank"><img style="border-radius: 10px; margin-bottom: 10px;" src="assets/discord-join.png" loading="lazy" width="180px" alt=""></a>
-</p>
-<hr class="my-5">
+## 📖 About the Project
 
-<style>
-    .guides-menu {
-        display: flex;
-        flex-direction: column;
-        margin: 20px auto 20px auto; 
-        justify-content: center;
-        max-width: 1000px;
-        gap: 15px;
-        padding: 20px 20px 40px;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        background-color: #24262E;
-        border-radius: 12px;
-    } 
-    
-    .guides-menu-row {
-        display: flex;
-        justify-content: center;
-        flex-direction: row;
-        flex-wrap: wrap;
-        gap: 10px;
-    } 
+Welcome to the **My Hero Ultra Rumble Ultimate Player Guide**!
 
-    .guide-icon {
-        flex: 0 0 auto;
-        width: 175px;
-        height: 175px;
-        box-sizing: border-box;
-    }
+This is a community driven project serves as a "macro-guide" designed to be the central hub for players of all skill levels. It aggregates specific, high-quality resources ranging from beginner mechanics to advanced competitive strategies. Whether you are a new player learning the ropes or a veteran looking to fine-tune your quirk sets, you will find the information you need here.
 
-    .guide-icon img {
-        width: 100%;
-        height: 100%;
-        object-fit: contain; 
-    }
+## 🗂️ Guide Contents
 
-    @media (max-width: 768px) {
-        .guide-icon {
-            max-width: 75px; 
-            max-height: 75px;
-        }
-        
-        .guides-menu-row {
-            gap: 5px; 
-        }
+This project is divided into the following specialized sections:
 
-        .guides-menu {
-            gap: 7px; 
-            padding: 10px 10px 20px;
-        }
-    }
-</style>
+* **🔰 New Player Guide** – Essential tips and mechanics for those just starting their journey.
+* **🦸 Character Guides** – In-depth breakdowns of specific characters, quirk sets, and match-ups.
+* **⚔️ General Player Guide** – Strategies that apply across the board, regardless of your main.
+* **⚙️ TUNING Guide** – Technical adjustments and settings to optimize your gameplay.
+* **🤝 Teamwork Guide** – Tactics for coordination, reviving, and squad synergy.
 
-<p align="center">
-   <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
-</p>
-<div class="guides-menu-row">
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/br-gameplay" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gameplay.png"/>
-    </a>
-  </div>
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/gamemodes" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gamemodes.png"/>
-    </a>
-  </div>  
-  <div class="guide-icon">
-      <a href="https://ultrarumble.com/guide/customization" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-customization.png"/>
-    </a>
-  </div> 
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/licensemissionnotebook" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-missionslicense.png"/>
-    </a>
-  </div> 
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/gacha" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gacha.png"/>
-    </a>
-  </div>
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/agency" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-agency.png"/>
-    </a>
-  </div>
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/ranking" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-ranked.png">
-    </a>
-  </div>
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/miscellaneous" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-miscellaneous.png">
-    </a>
-  </div>
-</div>
+## 💬 Community & Contribution
 
-<hr class="my-5">
+Want to help improve the guide? Join our community to share your thoughts, provide feedback, or apply to help write and maintain our guides!
 
-<p align="center">
-    <a href="https://ultrarumble.com/guide/characters" ><img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-characterqss.jpg" width="100%" /></a>
-</p>
+* **Join the Guide Discord:** [https://discord.gg/z5JqqtfuDK](https://discord.gg/z5JqqtfuDK)
 
-<div class="guides-menu-row">
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/unlocks" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-unlock.png"/>
-    </a>
-  </div>
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/characters" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-guides.png"/>
-    </a>
-  </div>  
-  <div class="guide-icon">
-      <a href="https://ultrarumble.com/guide/classes" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png"/>
-    </a>
-  </div> 
-</div>
+## 🔗 Project Links
 
-<hr class="my-5">
+* **Main Guide Page:** [https://ultrarumble.com/guide](https://ultrarumble.com/guide)
+* **Credits & Contributors:** [https://ultrarumble.com/guide/credits](https://ultrarumble.com/guide/credits)
+* **Host Website:** [https://ultrarumble.com/](https://ultrarumble.com/)
 
-<p align="center">
-    <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-generalplayer.jpg" width="100%" />
-</p>
+## ⚖️ Disclaimer
 
-<div class="guides-menu-row">
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/general" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-general.png"/>
-    </a>
-  </div>
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/teamwork" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-teamwork.png"/>
-    </a>
-  </div>    
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/poison-mist" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
-    </a>
-  </div>  
-  <div class="guide-icon">
-      <a href="https://ultrarumble.com/guide/escapism" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png"/>
-    </a>
-  </div> 
-  <div class="guide-icon">
-      <a href="https://ultrarumble.com/guide/wallrun" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-wallrun.png"/>
-    </a>
-  </div>
-</div>
-
-<hr class="my-5">
-
-<p align="center">
-    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-tuning.jpg" width="100%" />
-</p>
-
-<div class="guides-menu-row">
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/tuning" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-tuning.png"/>
-    </a>
-  </div>
-  <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/normal-tuning" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png"/>
-    </a>
-  </div>    
-</div>
-
-<hr class="my-5">
-
-<sub><sup>Not affiliated with or endorsed by Bandai Namco Entertainment Inc. / Byking Inc.</sup></sub>
+> This project is a fan-made resource. It is **not** affiliated with, endorsed by, or connected to Bandai Namco Entertainment Inc., Byking Inc., or the official *My Hero Ultra Rumble* development team. All game assets and trademarks belong to their respective owners.
