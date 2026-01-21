@@ -1,3 +1,77 @@
+<style>
+.character-box {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.character-card {
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    max-width: 520px; 
+    padding: 15px;
+    gap: 15px;
+    text-align: left;
+    background-color: #24262E;
+    border-radius: 12px;
+    box-sizing: border-box; 
+    overflow: hidden;
+}
+
+.character-image {
+    max-height: 135px;
+    align-self: center;
+}
+
+.currency-image {
+    max-width: 35px;
+    max-height: 35px;
+    vertical-align: middle;  
+}
+
+.currency-heading {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.container-image-icon {
+    flex: 1 1 auto;
+    max-width: 100px;
+    max-height: 150px;
+    object-fit: contain;
+}
+
+@media (max-width: 768px) {
+        .container-image-icon {
+            max-width: 75px; 
+            max-height: 100px;
+        }
+        
+        .image-container {
+            gap: 5px;
+            margin-bottom: 10px;
+            padding: 7px;
+        }
+}
+
+.container-image-icon {
+    max-width: 75px !important;
+}
+</style>
 <p align="center">
     <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-tuning.jpg" width="100%"/>
 </p>
