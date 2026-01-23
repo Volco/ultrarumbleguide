@@ -93,15 +93,15 @@ The Poison Mist's "timer" will start the moment you go inside of it. After 1 sec
 
 Below the minimap there's a white number in a purple circle, this signals the "Phase" of the match you are in. Matches have 8 phases ranging from Phase 1 (no mist) to Phase 8 (safe zone closes), here's how much damage the mist does per phase:
 
-- Phase 1: -10 HP/s - Can drink a Large HP Drink at 60 HP or more, or a Team Heal at 80 HP.
-- Phase 2: -10 HP/s - Can drink a Large HP Drink at 60 HP or more, or a Team Heal at 80 HP.
-- Phase 3: -13 HP/s - Can drink a Large HP Drink at 78 HP or more, or a Team Heal at 104 HP.
-- Phase 4: -15 HP/s - Can drink a Large HP Drink at 90 HP or more, or a Team Heal at 120 HP.
-- Phase 5: -20 HP/s - Can drink a Large HP Drink at 120 HP or more, or a Team Heal at 160 HP.
-- Phase 6: -23 HP/s - Can drink a Large HP Drink at 138 HP or more, or a Team Heal at 184 HP.
-- Phase 7: -23 HP/s - Can drink a Large HP Drink at 138 HP or more, or a Team Heal at 184 HP.
-- Phase 8: -28 HP/s - Can drink a Large HP Drink at 168 HP or more, or a Team Heal at 224 HP.
-- Phase 9: -40 HP/s - Can drink a Large HP Drink at 240 HP or more, or a Team Heal at 320 HP.
+- Phase 1: -10 HP/s - Can drink a Large HP Drink at 61 HP or more, or a Team Heal at 81 HP.
+- Phase 2: -10 HP/s - Can drink a Large HP Drink at 61 HP or more, or a Team Heal at 81 HP.
+- Phase 3: -13 HP/s - Can drink a Large HP Drink at 79 HP or more, or a Team Heal at 105 HP.
+- Phase 4: -15 HP/s - Can drink a Large HP Drink at 91 HP or more, or a Team Heal at 121 HP.
+- Phase 5: -20 HP/s - Can drink a Large HP Drink at 121 HP or more, or a Team Heal at 161 HP.
+- Phase 6: -23 HP/s - Can drink a Large HP Drink at 139 HP or more, or a Team Heal at 185 HP.
+- Phase 7: -23 HP/s - Can drink a Large HP Drink at 139 HP or more, or a Team Heal at 185 HP.
+- Phase 8: -28 HP/s - Can drink a Large HP Drink at 169 HP or more, or a Team Heal at 225 HP.
+- Phase 9: -40 HP/s - Can drink a Large HP Drink at 241 HP or more, or a Team Heal at 321 HP.
 
 A single Support Ability Card can negate the damage from Phase 1 and 2 mists, while two of them at the same time can negate that of Phase 5 and below.<br>
 HP Defense tunes can reduce the damage of the Poison Mist if you have enough of them, being able to reduce its damage by 1, and by 2 if it's the final mist.
