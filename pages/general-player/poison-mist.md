@@ -94,15 +94,15 @@ Support character multipliers help with making Mini Greens better in storm. By d
 
 Below the minimap there's a white number in a purple circle, this signals the "Phase" of the match you are in. Matches have 8 phases ranging from Phase 1 (no mist) to Phase 8 (safe zone closes), here's how much damage the mist does per phase:
 
-- Phase 1: -10 HP/s - Can drink a Mini Green at more than 30 HP, a Large HP Drink at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
-- Phase 2: -10 HP/s - Can drink a Mini Green at more than 30 HP, a Large HP Drink at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
-- Phase 3: -13 HP/s - Can drink a Mini Green at more than 39 HP, a Large HP Drink at more than 78 HP, a Team Heal at more than 104 HP and open a Large Chest at more than 169 HP.
-- Phase 4: -15 HP/s - Can drink a Mini Green at more than 45 HP, a Large HP Drink at more than 90 HP, a Team Heal at more than 120 HP and open a Large Chest at more than 195 HP.
-- Phase 5: -20 HP/s - Can drink a Mini Green at more than 60 HP, a Large HP Drink at more than 120 HP, a Team Heal at more than 160 HP and open a Large Chest at more than 260 HP.
-- Phase 6: -23 HP/s - Can drink a Mini Green at more than 69 HP, a Large HP Drink at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
-- Phase 7: -23 HP/s - Can drink a Mini Green at more than 69 HP, a Large HP Drink at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
-- Phase 8: -28 HP/s - Can drink a Mini Green at more than 84 HP, a Large HP Drink at more than 168 HP, a Team Heal at more than 224 HP and open a Large Chest at more than 364 HP.
-- Phase 9: -40 HP/s - Can drink a Mini Green at more than 120 HP, a Large HP Drink at more than 240 HP, a Team Heal at more than 320 HP and open a Large Chest at more than 520 HP.
+- Phase 1: -10 HP/s - Can drink a Mini HP Drink at more than 30 HP, a Large HP Drink/Revive Card at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
+- Phase 2: -10 HP/s - Can drink a Mini HP Drink at more than 30 HP, a Large HP Drink/Revive Card at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
+- Phase 3: -13 HP/s - Can drink a Mini HP Drink at more than 39 HP, a Large HP Drink/Revive Card at more than 78 HP, a Team Heal at more than 104 HP and open a Large Chest at more than 169 HP.
+- Phase 4: -15 HP/s - Can drink a Mini HP Drink at more than 45 HP, a Large HP Drink/Revive Card at more than 90 HP, a Team Heal at more than 120 HP and open a Large Chest at more than 195 HP.
+- Phase 5: -20 HP/s - Can drink a Mini HP Drink at more than 60 HP, a Large HP Drink/Revive Card at more than 120 HP, a Team Heal at more than 160 HP and open a Large Chest at more than 260 HP.
+- Phase 6: -23 HP/s - Can drink a Mini HP Drink at more than 69 HP, a Large HP Drink/Revive Card at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
+- Phase 7: -23 HP/s - Can drink a Mini HP Drink at more than 69 HP, a Large HP Drink/Revive Card at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
+- Phase 8: -28 HP/s - Can drink a Mini HP Drink at more than 84 HP, a Large HP Drink/Revive Card at more than 168 HP, a Team Heal at more than 224 HP and open a Large Chest at more than 364 HP.
+- Phase 9: -40 HP/s - Can drink a Mini HP Drink at more than 120 HP, a Large HP Drink/Revive Card at more than 240 HP, a Team Heal at more than 320 HP and open a Large Chest at more than 520 HP.
 
 A single Support Ability Card can negate the damage from Phase 1 and 2 mists, while two of them at the same time can negate that of Phase 5 and below.<br>
 It is important to note for opening a Large Chest in storm you need enough HP to be able to use a heal afterwards so that you do not go down to the mist.<br>
