@@ -246,7 +246,7 @@ When it comes to Mistbanning, you want characters that have Long Range Wall-Thro
         <img class="character-image" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png">
         <div>
             <h3>Armored All Might</h3>
-            <p>This character has everything, from high HP to insane mobility and a tool to attack while healing or stunned. When you pair his 400 HP with a mobility that lets him get in and out of the mist with ease you get a character with insane survivability potential, which is highlighted even more with his gamma skill, which can buy him time and/or allow a counterattack if followed.</p>
+            <p>This character has everything, from high HP to insane mobility and a tool to attack while healing or stunned. When you pair his 350 HP with a mobility that lets him get in and out of the mist with ease you get a character with insane survivability potential, which is highlighted even more with his gamma skill, which can buy him time and/or allow a counterattack if followed.</p>
         </div>
     </div>
     <div class="character-card">
