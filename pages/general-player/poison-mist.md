@@ -90,21 +90,24 @@ The Poison Mist is an incredibly valuable strategic element, and learning how to
 # Poison Mist Data Information and Timing
 
 The Poison Mist's "timer" will start the moment you go inside of it. After 1 second has passed, you will start taking damage. If you've been knocked into the Poison Mist but have i-frames, the timer will still move even though you have i-frames. If you surrender your i-frames by using a skill, you will instantly take damage, which is why it's not a good idea to use a mobility skill at 2 HP if you're slightly inside the mist, because otherwise it will deal DMG instantly, downing you in the spot.
+Support character multipliers help with making Mini Greens better in storm. By default Mini Greens heal 100 hp, with 1 support member increases the heal to 110 HP, 2 support characters increase the heal to 125 HP and 3 support characters increase to heal to 150 HP.
 
 Below the minimap there's a white number in a purple circle, this signals the "Phase" of the match you are in. Matches have 8 phases ranging from Phase 1 (no mist) to Phase 8 (safe zone closes), here's how much damage the mist does per phase:
 
-- Phase 1: -10 HP/s - Can drink a Large HP Drink at 61 HP or more, or a Team Heal at 81 HP.
-- Phase 2: -10 HP/s - Can drink a Large HP Drink at 61 HP or more, or a Team Heal at 81 HP.
-- Phase 3: -13 HP/s - Can drink a Large HP Drink at 79 HP or more, or a Team Heal at 105 HP.
-- Phase 4: -15 HP/s - Can drink a Large HP Drink at 91 HP or more, or a Team Heal at 121 HP.
-- Phase 5: -20 HP/s - Can drink a Large HP Drink at 121 HP or more, or a Team Heal at 161 HP.
-- Phase 6: -23 HP/s - Can drink a Large HP Drink at 139 HP or more, or a Team Heal at 185 HP.
-- Phase 7: -23 HP/s - Can drink a Large HP Drink at 139 HP or more, or a Team Heal at 185 HP.
-- Phase 8: -28 HP/s - Can drink a Large HP Drink at 169 HP or more, or a Team Heal at 225 HP.
-- Phase 9: -40 HP/s - Can drink a Large HP Drink at 241 HP or more, or a Team Heal at 321 HP.
+- Phase 1: -10 HP/s - Can drink a Mini HP Drink at more than 30 HP, a Large HP Drink/Revive Card at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
+- Phase 2: -10 HP/s - Can drink a Mini HP Drink at more than 30 HP, a Large HP Drink/Revive Card at more than 60 HP, a Team Heal at more than 80 HP and open a Large Chest at more than 130 HP.
+- Phase 3: -13 HP/s - Can drink a Mini HP Drink at more than 39 HP, a Large HP Drink/Revive Card at more than 78 HP, a Team Heal at more than 104 HP and open a Large Chest at more than 169 HP.
+- Phase 4: -15 HP/s - Can drink a Mini HP Drink at more than 45 HP, a Large HP Drink/Revive Card at more than 90 HP, a Team Heal at more than 120 HP and open a Large Chest at more than 195 HP.
+- Phase 5: -20 HP/s - Can drink a Mini HP Drink at more than 60 HP, a Large HP Drink/Revive Card at more than 120 HP, a Team Heal at more than 160 HP and open a Large Chest at more than 260 HP.
+- Phase 6: -23 HP/s - Can drink a Mini HP Drink at more than 69 HP, a Large HP Drink/Revive Card at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
+- Phase 7: -23 HP/s - Can drink a Mini HP Drink at more than 69 HP, a Large HP Drink/Revive Card at more than 138 HP, a Team Heal at more than 184 HP and open a Large Chest at more than 299 HP.
+- Phase 8: -28 HP/s - Can drink a Mini HP Drink at more than 84 HP, a Large HP Drink/Revive Card at more than 168 HP, a Team Heal at more than 224 HP and open a Large Chest at more than 364 HP.
+- Phase 9: -40 HP/s - Can drink a Mini HP Drink at more than 120 HP, a Large HP Drink/Revive Card at more than 240 HP, a Team Heal at more than 320 HP and open a Large Chest at more than 520 HP.
 
 A single Support Ability Card can negate the damage from Phase 1 and 2 mists, while two of them at the same time can negate that of Phase 5 and below.<br>
-HP Defense tunes can reduce the damage of the Poison Mist if you have enough of them, being able to reduce its damage by 1, and by 2 if it's the final mist.
+It is important to note for opening a Large Chest in storm you need enough HP to be able to use a heal afterwards so that you do not go down to the mist.<br>
+Roll cancel after your heal to maximize amount heals you can use in the storm, it takes 75% of a second to roll, with no roll it takes over a second to heal again.<br> 
+HP Defense tunes can reduce the damage of the Poison Mist if you have enough of them, being able to reduce its damage by 1, and by 2 if it's the final mist. 
 <br>
 <br>
 
